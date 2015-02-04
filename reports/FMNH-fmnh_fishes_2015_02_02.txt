@@ -1,0 +1,121 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 161
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 4
+	Date: 2015-01-07 ; Times: 3
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-13 ; Times: 3
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-16 ; Times: 3
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-19 ; Times: 3
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-25 ; Times: 6
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-29 ; Times: 3
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "seychelles" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Medem 1955" ; Times: 2
+	Query: "specificepithet:pacificum genus:Diplectrum" ; Times: 1
+	Query: "country:"Mexico" specificepithet:aurata" ; Times: 1
+	Query: "fmnh 12313" ; Times: 1
+	Query: "WED 53045" ; Times: 1
+	Query: "stateprovince:"South Carolina" country:"USA" genus:Gambusia" ; Times: 1
+	Query: "Otothyris lophophanes" ; Times: 1
+	Query: "crossocheilus" ; Times: 2
+	Query: "spixii" ; Times: 3
+	Query: "Anguilla rostrata mexico" ; Times: 2
+	Query: "Evermannella balbo" ; Times: 1
+	Query: "stateprovince:"South Carolina" country:"USA" specificepithet:americanus genus:Esox" ; Times: 1
+	Query: "fmnh timorensis" ; Times: 1
+	Query: "alvarezi" ; Times: 1
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "FMNH 95137" ; Times: 1
+	Query: "stateprovince:"South Carolina" country:"USA" genus:Fundulus" ; Times: 1
+	Query: "Stegastes acapulcoensis" ; Times: 1
+	Query: "hypancistrus" ; Times: 2
+	Query: "stateprovince:"South Carolina" country:"USA" genus:Umbra" ; Times: 1
+	Query: "salvelinus fontinalis" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "peckoltia" ; Times: 1
+	Query: "natural history museum of los angeles genus:gila" ; Times: 2
+	Query: "stateprovince:"South Carolina" country:"USA" specificepithet:niger genus:Esox" ; Times: 1
+	Query: "Grasseichthys gabonensis" ; Times: 1
+	Query: "FMNH 2587" ; Times: 1
+	Query: "stateprovince:"South Carolina" country:"USA" genus:Esox" ; Times: 1
+	Query: "catalognumber:108331 institutioncode:FMNH" ; Times: 2
+	Query: "fmnh papuensis" ; Times: 2
+	Query: "nocomis biguttatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 445 download events in this period)
+Total number of records downloaded: 194 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 194
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "distance(location,geopoint(40.60387435807246,-73.85421752929688))<9650.626978131286" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Indonesia (Kai OR Kei) AND (NOT Aves NOT Mammalia)" ; Times: 1
+	Query: "w-nigrum" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 804
+Total number of records retrieved from searches: 11416
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 194
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 846
+Total number of records retrieved from searches: 11577
+Number of download events that retrieved data from the resource: 141
+Total number of records downloaded: 58878
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

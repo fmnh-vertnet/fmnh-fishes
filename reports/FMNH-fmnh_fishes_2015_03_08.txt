@@ -1,0 +1,117 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 378
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 3
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-08 ; Times: 2
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-14 ; Times: 2
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 5
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 1
+	Date: 2015-02-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "fundulus parvipinnis" ; Times: 1
+	Query: "JURUA type:specimen" ; Times: 2
+	Query: "urucum" ; Times: 1
+	Query: "Ateleopus" ; Times: 1
+	Query: "county:"Hall" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "fmnh gnomus" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "platytroctidae" ; Times: 1
+	Query: "Anguilla rostrata mexico" ; Times: 3
+	Query: "brook trout natural history museum" ; Times: 1
+	Query: "fmnh 55505" ; Times: 1
+	Query: "leporacanthicus" ; Times: 1
+	Query: "catalognumber:4563 institutioncode:FMNH" ; Times: 1
+	Query: "amblygobius bynoensis" ; Times: 1
+	Query: "Agua Bonita" ; Times: 1
+	Query: "ateleopus" ; Times: 1
+	Query: "lepidosiren" ; Times: 1
+	Query: "ateleopodidae" ; Times: 1
+	Query: "nannostomus" ; Times: 3
+	Query: "heterodon wisconsin" ; Times: 1
+	Query: "specificepithet:sp genus:bryconamericus" ; Times: 2
+	Query: "Gorgona Island" ; Times: 1
+	Query: "akeley" ; Times: 1
+	Query: "danube river" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" institutioncode:FMNH" ; Times: 1
+	Query: "Rio Tocantins type:specimen" ; Times: 1
+	Query: "fmnh 79962" ; Times: 2
+	Query: "dorsimaculatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 326 download events in this period)
+Total number of records downloaded: 7007 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7007
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "specificepithet:fisheri" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 840
+Total number of records retrieved from searches: 11794
+Number of download events that retrieved data from the resource: 13
+Total number of records downloaded: 7201
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 882
+Total number of records retrieved from searches: 11955
+Number of download events that retrieved data from the resource: 148
+Total number of records downloaded: 65885
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,304 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 357
+Number of records retrieved in searches: 678
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Paraguay ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 318
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 10
+	Date: 2015-06-02 ; Times: 10
+	Date: 2015-06-04 ; Times: 7
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 9
+	Date: 2015-06-09 ; Times: 14
+	Date: 2015-06-10 ; Times: 14
+	Date: 2015-06-11 ; Times: 7
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-13 ; Times: 5
+	Date: 2015-06-15 ; Times: 2
+	Date: 2015-06-16 ; Times: 49
+	Date: 2015-06-17 ; Times: 2
+	Date: 2015-06-18 ; Times: 162
+	Date: 2015-06-19 ; Times: 12
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-23 ; Times: 13
+	Date: 2015-06-24 ; Times: 14
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-29 ; Times: 7
+	Date: 2015-06-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:47592 institutioncode:FMNH" ; Times: 2
+	Query: "chromis agilis" ; Times: 2
+	Query: "michigan cyprinodon" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "distance(location,geopoint(35.39513952947841,15.380859375))<144859" ; Times: 1
+	Query: "FMNH 114991" ; Times: 3
+	Query: "FMNH 114992" ; Times: 2
+	Query: "FMNH 114993" ; Times: 2
+	Query: "FMNH 113615" ; Times: 2
+	Query: "micropogonias ectenes" ; Times: 1
+	Query: "FMNH 125847" ; Times: 2
+	Query: "FMNH 125844" ; Times: 4
+	Query: "FMNH 48343" ; Times: 2
+	Query: "FMNH 48344" ; Times: 2
+	Query: "FMNH 48345" ; Times: 2
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "FMNH 48347" ; Times: 2
+	Query: "FMNH 48348" ; Times: 2
+	Query: "catalognumber:125769" ; Times: 1
+	Query: "catalognumber:84696" ; Times: 1
+	Query: "FMNH 125848" ; Times: 2
+	Query: "catalognumber:94452" ; Times: 2
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "FMNH 96091" ; Times: 2
+	Query: "FMNH 96090" ; Times: 3
+	Query: "county:"Macon" stateprovince:"Illinois" year <= 2015" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-0.9228116626856938,-47.17529296875))<100000" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "119799" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 2
+	Query: "catalognumber:88978" ; Times: 1
+	Query: "catalognumber:57527 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 48784" ; Times: 2
+	Query: "FMNH 87060" ; Times: 2
+	Query: "FMNH 87061" ; Times: 3
+	Query: "FMNH 87062" ; Times: 2
+	Query: ""Cynoscion nebulosus" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: "FMNH 113445" ; Times: 2
+	Query: "Anolis stateprovince:"California"" ; Times: 6
+	Query: "44801" ; Times: 1
+	Query: "FMNH 46590" ; Times: 1
+	Query: "gymnothorax dovii" ; Times: 1
+	Query: "Dermatolepis dermatolepis type:specimen" ; Times: 1
+	Query: "catalognumber:4871 institutioncode:FMNH" ; Times: 1
+	Query: "46590" ; Times: 1
+	Query: "FMNH 114990" ; Times: 3
+	Query: "91447" ; Times: 1
+	Query: "hyporhamphus gilli" ; Times: 1
+	Query: "FMNH 124092" ; Times: 2
+	Query: "cock of the rock" ; Times: 1
+	Query: "FMNH 62287" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "FMNH 105953" ; Times: 4
+	Query: "FMNH 44298" ; Times: 2
+	Query: "FMNH 113719" ; Times: 2
+	Query: "FMNH 113712" ; Times: 2
+	Query: "FMNH 113711" ; Times: 2
+	Query: "FMNH 113710" ; Times: 2
+	Query: "FMNH 2527" ; Times: 2
+	Query: "lutjanus colorado" ; Times: 1
+	Query: "FMNH 58722" ; Times: 4
+	Query: "trachinotus stilbe" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 1
+	Query: "FMNH 58720" ; Times: 4
+	Query: "bonariensis brazil" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "catalognumber:86190" ; Times: 1
+	Query: "FMNH 83304" ; Times: 2
+	Query: "neoopisthopterus tropicus" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "FMNH 123904" ; Times: 2
+	Query: "FMNH 123907" ; Times: 3
+	Query: "FMNH 48346" ; Times: 2
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "FMNH 75189" ; Times: 2
+	Query: "FMNH 75186" ; Times: 2
+	Query: "FMNH 75187" ; Times: 2
+	Query: "FMNH 75184" ; Times: 2
+	Query: "FMNH 75185" ; Times: 2
+	Query: "FMNH 75182" ; Times: 2
+	Query: "FMNH 75183" ; Times: 2
+	Query: "catenatus missouri" ; Times: 3
+	Query: "FMNH 62011" ; Times: 3
+	Query: "FMNH 122132" ; Times: 4
+	Query: "plectroglyphidodon imparipennis" ; Times: 1
+	Query: "FMNH 114982" ; Times: 2
+	Query: "124336" ; Times: 1
+	Query: "FMNH 114981" ; Times: 2
+	Query: "FMNH 113443" ; Times: 2
+	Query: "FMNH 113442" ; Times: 2
+	Query: "FMNH 113441" ; Times: 2
+	Query: "FMNH 113440" ; Times: 2
+	Query: "FMNH 113447" ; Times: 2
+	Query: "FMNH 48785" ; Times: 2
+	Query: "FMNH 48786" ; Times: 4
+	Query: "FMNH 113444" ; Times: 2
+	Query: "FMNH 44296" ; Times: 2
+	Query: "FMNH 44297" ; Times: 2
+	Query: "fmnh 115688" ; Times: 1
+	Query: "FMNH 123910" ; Times: 2
+	Query: "FMNH 58719" ; Times: 3
+	Query: "alphestes afer" ; Times: 1
+	Query: "Centropomus viridis" ; Times: 2
+	Query: ""L.J. Hendricks"" ; Times: 1
+	Query: "Vidua" ; Times: 1
+	Query: "FMNH 114989" ; Times: 2
+	Query: "FMNH 113438" ; Times: 2
+	Query: "FMNH 113439" ; Times: 2
+	Query: "FMNH 113436" ; Times: 2
+	Query: "FMNH 113437" ; Times: 2
+	Query: "FMNH 89087" ; Times: 2
+	Query: "FMNH 113432" ; Times: 4
+	Query: "jacksonii stateprovince:"California"" ; Times: 4
+	Query: "FMNH 113692" ; Times: 2
+	Query: "FMNH 113691" ; Times: 2
+	Query: "FMNH 113696" ; Times: 2
+	Query: "mugil hospes" ; Times: 1
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "FMNH 125849" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "FMNH 124970" ; Times: 2
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "FMNH 45570" ; Times: 2
+	Query: "Oncorhynchus aguabonita" ; Times: 1
+	Query: "FMNH 113836" ; Times: 2
+	Query: "FMNH 75188" ; Times: 2
+	Query: "FMNH 5292" ; Times: 3
+	Query: "FMNH 113839" ; Times: 2
+	Query: "a;to purus" ; Times: 1
+	Query: "FMNH 113728" ; Times: 2
+	Query: "FMNH 110921" ; Times: 2
+	Query: "catalognumber:57528 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 58731" ; Times: 2
+	Query: "catalognumber:120059" ; Times: 1
+	Query: "FMNH 62291" ; Times: 1
+	Query: "FMNH 113462" ; Times: 2
+	Query: "FMNH 102862" ; Times: 1
+	Query: "FMNH 71489" ; Times: 2
+	Query: "FMNH 102860" ; Times: 1
+	Query: ""adinia xenica" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: ""L.J. Hendricks" stateprovince:"california"" ; Times: 1
+	Query: "FMNH 113845" ; Times: 2
+	Query: "FMNH 113844" ; Times: 2
+	Query: "coris gaimard" ; Times: 3
+	Query: "117737" ; Times: 1
+	Query: "112895" ; Times: 3
+	Query: "FMNH 121259" ; Times: 2
+	Query: "FMNH 125860" ; Times: 2
+	Query: "FMNH 113849" ; Times: 2
+	Query: "FMNH 125863" ; Times: 2
+	Query: "FMNH 105990" ; Times: 2
+	Query: "FMNH 58725" ; Times: 2
+	Query: "lemos" ; Times: 1
+	Query: "FMNH 108305" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "FMNH 113846" ; Times: 2
+	Query: "FMNH 58723" ; Times: 2
+	Query: "64392" ; Times: 1
+	Query: "FMNH 58721" ; Times: 4
+	Query: "oligoplites refulgens" ; Times: 1
+	Query: "FMNH vulpes vulpes" ; Times: 1
+	Query: "Hendricks stateprovince:"california"" ; Times: 2
+	Query: "felis country:"MEXICO" year <= 2015" ; Times: 1
+	Query: "FMNH 114987" ; Times: 2
+	Query: "FMNH 114984" ; Times: 2
+	Query: "FMNH 114983" ; Times: 2
+	Query: "Alphestes multiguttatus" ; Times: 1
+	Query: "country:"paraguay" specificepithet:vittata" ; Times: 2
+	Query: "FMNH 114980" ; Times: 4
+	Query: "catalognumber:43144 institutioncode:FMNH" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "FMNH 51520" ; Times: 2
+	Query: "FMNH 114988" ; Times: 2
+	Query: "catalognumber:53488 institutioncode:FMNH" ; Times: 3
+	Query: "FMNH 54939" ; Times: 2
+	Query: "decussatus" ; Times: 2
+	Query: "FMNH 58724" ; Times: 2
+	Query: "FMNH 48374" ; Times: 1
+	Query: "FMNH 114977" ; Times: 2
+	Query: "FMNH 35893" ; Times: 1
+	Query: "FMNH 114978" ; Times: 2
+	Query: "FMNH 114979" ; Times: 4
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "FMNH 114976" ; Times: 5
+	Query: "catalognumber:83554 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:57529 institutioncode:FMNH" ; Times: 2
+	Query: "pristis pristis" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1524 download events in this period)
+Total number of records downloaded: 8851 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8819
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Guatemala ; Times: 2
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 8
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bahrain" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: ""Cynoscion nebulosus" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: "country:"Panama" ("Barro colorado" OR BCI) year >= 1904 year <= 1929" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "atitlan" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "yemen" ; Times: 1
+	Query: ""adinia xenica" stateprovince:"Louisiana" mappable:1" ; Times: 1
+	Query: ""T. Barbour"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1419
+Total number of records retrieved from searches: 13681
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 19647
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1461
+Total number of records retrieved from searches: 13842
+Number of download events that retrieved data from the resource: 184
+Total number of records downloaded: 78331
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

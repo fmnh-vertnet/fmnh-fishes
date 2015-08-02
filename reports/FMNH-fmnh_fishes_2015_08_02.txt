@@ -1,0 +1,371 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 411
+Number of records retrieved in searches: 614
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 79
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 319
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 11
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-03 ; Times: 3
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 19
+	Date: 2015-07-09 ; Times: 25
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-13 ; Times: 10
+	Date: 2015-07-14 ; Times: 58
+	Date: 2015-07-15 ; Times: 7
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 65
+	Date: 2015-07-18 ; Times: 8
+	Date: 2015-07-19 ; Times: 5
+	Date: 2015-07-20 ; Times: 36
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-22 ; Times: 8
+	Date: 2015-07-23 ; Times: 10
+	Date: 2015-07-24 ; Times: 7
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-26 ; Times: 5
+	Date: 2015-07-27 ; Times: 87
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 4
+	Date: 2015-07-30 ; Times: 6
+	Date: 2015-07-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "FMNH 87058" ; Times: 2
+	Query: "cryptocentrus strigilliceps" ; Times: 2
+	Query: "22774" ; Times: 1
+	Query: "chirocentrus gulf" ; Times: 1
+	Query: "FMNH 120903" ; Times: 2
+	Query: "95649" ; Times: 1
+	Query: "FMNH 87057" ; Times: 2
+	Query: "51472" ; Times: 1
+	Query: "alectis ciliaris gulf" ; Times: 1
+	Query: "FMNH 62296" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "chascanopsetta" ; Times: 1
+	Query: "FMNH 105874" ; Times: 2
+	Query: "microgobius emblematicus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "FMNH 105871" ; Times: 2
+	Query: "FMNH 44121" ; Times: 2
+	Query: "FMNH 105873" ; Times: 2
+	Query: "FMNH 105872" ; Times: 2
+	Query: "14470" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "FMNH 125849" ; Times: 1
+	Query: "FMNH 122942" ; Times: 2
+	Query: "FMNH 114043" ; Times: 2
+	Query: "FMNH 103273" ; Times: 1
+	Query: "FMNH 122941" ; Times: 2
+	Query: "FMNH 123893" ; Times: 2
+	Query: "FMNH 114047" ; Times: 2
+	Query: "FMNH 123890" ; Times: 2
+	Query: "FMNH 120944" ; Times: 2
+	Query: "FMNH 120945" ; Times: 2
+	Query: "diodon liturosus" ; Times: 1
+	Query: "FMNH 120942" ; Times: 2
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "catalognumber:43140 institutioncode:FMNH" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "FMNH 94713" ; Times: 1
+	Query: "FMNH 94710" ; Times: 2
+	Query: "81805" ; Times: 1
+	Query: "FMNH 93207" ; Times: 2
+	Query: "FMNH 93206" ; Times: 2
+	Query: "FMNH 105868" ; Times: 2
+	Query: "FMNH 105869" ; Times: 2
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "FMNH 114062" ; Times: 2
+	Query: "FMNH 48787" ; Times: 2
+	Query: "FMNH 105866" ; Times: 2
+	Query: "FMNH 105867" ; Times: 2
+	Query: "FMNH 95650" ; Times: 1
+	Query: "47321 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 54400" ; Times: 2
+	Query: "drepane punctata" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "FMNH 114034" ; Times: 2
+	Query: "FMNH 114053" ; Times: 2
+	Query: "FMNH 125835" ; Times: 2
+	Query: "FMNH 123889" ; Times: 2
+	Query: "FMNH 114039" ; Times: 2
+	Query: "FMNH 120913" ; Times: 2
+	Query: "FMNH 120912" ; Times: 2
+	Query: "FMNH 120910" ; Times: 2
+	Query: "FMNH 120917" ; Times: 2
+	Query: "FMNH 120916" ; Times: 2
+	Query: "FMNH 120914" ; Times: 1
+	Query: "callionymus oman" ; Times: 1
+	Query: "FMNH 58242" ; Times: 2
+	Query: "FMNH 120918" ; Times: 2
+	Query: "FMNH 58245" ; Times: 2
+	Query: "paraclinus mexicanus" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "malaita year >= 1995 year <= 2015" ; Times: 1
+	Query: "decapterus gulf" ; Times: 1
+	Query: "81533 institutioncode:FMNH" ; Times: 2
+	Query: "atropus" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "FMNH 120906" ; Times: 2
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "FMNH 95653" ; Times: 1
+	Query: "seriola gulf" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 1
+	Query: "FMNH 125830" ; Times: 2
+	Query: "Congridae oman" ; Times: 2
+	Query: "escualosa thoracata gulf" ; Times: 1
+	Query: "naucrates gulf" ; Times: 1
+	Query: "FMNH 120900" ; Times: 2
+	Query: "FMNH 120901" ; Times: 2
+	Query: "FMNH 93548" ; Times: 2
+	Query: "FMNH 93549" ; Times: 2
+	Query: "FMNH 120905" ; Times: 2
+	Query: "chascanopsetta gulf" ; Times: 2
+	Query: "FMNH 120907" ; Times: 2
+	Query: "FMNH 120908" ; Times: 2
+	Query: "FMNH 120909" ; Times: 2
+	Query: "FMNH 114091" ; Times: 2
+	Query: "FMNH 114090" ; Times: 4
+	Query: "FMNH 114093" ; Times: 2
+	Query: "FMNH 124958" ; Times: 1
+	Query: "FMNH 114094" ; Times: 2
+	Query: "elagatis gulf" ; Times: 1
+	Query: "chilomycterus reticulatus" ; Times: 1
+	Query: "FMNH 105870" ; Times: 2
+	Query: "carapidae gulf" ; Times: 1
+	Query: "FMNH 84399" ; Times: 2
+	Query: "FMNH 84398" ; Times: 2
+	Query: "FMNH 44122" ; Times: 2
+	Query: "95651" ; Times: 1
+	Query: "Callionymus oman" ; Times: 4
+	Query: "26305" ; Times: 1
+	Query: "FMNH 84397" ; Times: 2
+	Query: "FMNH 84396" ; Times: 2
+	Query: "paraclinus altivelis" ; Times: 1
+	Query: "trachurus indicus" ; Times: 2
+	Query: "enigmaticus" ; Times: 1
+	Query: "FMNH 114092" ; Times: 2
+	Query: "pongo institutioncode:fmnh" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "81553 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 94709" ; Times: 2
+	Query: "62346" ; Times: 1
+	Query: "FMNH 94708" ; Times: 2
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "Sykes country:"mexico"" ; Times: 4
+	Query: "FMNH 62294" ; Times: 1
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "FMNH 84401" ; Times: 2
+	Query: "FMNH 84400" ; Times: 2
+	Query: "pentaprion longimanus" ; Times: 1
+	Query: "FMNH 42433" ; Times: 2
+	Query: "FMNH 114088" ; Times: 2
+	Query: "citharichthys xanthostigma" ; Times: 1
+	Query: "FMNH 98002" ; Times: 2
+	Query: "FMNH 121729" ; Times: 2
+	Query: "FMNH 103270" ; Times: 1
+	Query: "callionymidae oman" ; Times: 1
+	Query: "alepes vari" ; Times: 1
+	Query: "serranidae oman" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "FMNH 95122" ; Times: 1
+	Query: "FMNH 98003" ; Times: 1
+	Query: "FMNH 98000" ; Times: 2
+	Query: "FMNH 98001" ; Times: 3
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Regalecus" ; Times: 3
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "FMNH 95654" ; Times: 1
+	Query: "FMNH 120919" ; Times: 2
+	Query: "fmnh 95741" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 4
+	Query: "FMNH 95123" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "Scoloplax" ; Times: 1
+	Query: "FMNH 120902" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "congridae oman" ; Times: 5
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "field 96440" ; Times: 2
+	Query: "FMNH 124974" ; Times: 2
+	Query: "diagramma oman" ; Times: 1
+	Query: "FMNH 124973" ; Times: 2
+	Query: "FMNH 124972" ; Times: 2
+	Query: "myxodagnus opercularis" ; Times: 1
+	Query: "encrasicholina heteroloba" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 2
+	Query: "ruvettus gulf" ; Times: 1
+	Query: "minous oman" ; Times: 1
+	Query: "cynoglossus oman" ; Times: 3
+	Query: "62176" ; Times: 1
+	Query: "FMNH 123894" ; Times: 2
+	Query: "FMNH 89090" ; Times: 2
+	Query: "FMNH-93555" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "FMNH 103271" ; Times: 1
+	Query: "alectis gulf" ; Times: 1
+	Query: "FMNH 120943" ; Times: 2
+	Query: "FMNH 114077" ; Times: 3
+	Query: "FMNH 114076" ; Times: 2
+	Query: "FMNH 114074" ; Times: 2
+	Query: "arius maculatus" ; Times: 1
+	Query: "Mexico specificepithet:Olivaris genus:pylodictis" ; Times: 1
+	Query: "Boleophthalmus dussumieri" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "FMNH 62291" ; Times: 1
+	Query: "FMNH 124971" ; Times: 1
+	Query: "odonus niger" ; Times: 1
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "FMNH 120899" ; Times: 2
+	Query: "laevigatus" ; Times: 1
+	Query: "FMNH 102862" ; Times: 1
+	Query: "FMNH 102860" ; Times: 1
+	Query: "canthigaster papua" ; Times: 2
+	Query: "boulton year >= 1921 year <= 1952" ; Times: 1
+	Query: "FMNH 83988" ; Times: 3
+	Query: "FMNH 124968" ; Times: 2
+	Query: "FMNH 62297" ; Times: 3
+	Query: "FMNH 113845" ; Times: 1
+	Query: "FMNH 113843" ; Times: 2
+	Query: "FMNH 113842" ; Times: 2
+	Query: "carangoides ferdau oman" ; Times: 2
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "dactyloptena gilberti" ; Times: 1
+	Query: "FMNH 113848" ; Times: 2
+	Query: "FMNH 114042" ; Times: 2
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "FMNH 114060" ; Times: 2
+	Query: "FMNH 114061" ; Times: 2
+	Query: "FMNH 120920" ; Times: 2
+	Query: "FMNH 120921" ; Times: 2
+	Query: "FMNH 114058" ; Times: 2
+	Query: "FMNH 113847" ; Times: 2
+	Query: "phtheirichthys gulf" ; Times: 1
+	Query: "FMNH 94711" ; Times: 2
+	Query: "county:"Union" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "nematalosa gulf" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "FMNH 103272" ; Times: 1
+	Query: "soleidae oman" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "catalognumber:51319 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 106798" ; Times: 2
+	Query: "capoeta" ; Times: 3
+	Query: "62178" ; Times: 1
+	Query: "Gnathanodon oman" ; Times: 1
+	Query: "FMNH 125850" ; Times: 2
+	Query: "FMNH 125853" ; Times: 2
+	Query: "FMNH 125852" ; Times: 2
+	Query: "FMNH 125855" ; Times: 2
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "FMNH 125856" ; Times: 2
+	Query: "caranx sexfasciatus gulf" ; Times: 1
+	Query: "catalognumber:51194 institutioncode:FMNH" ; Times: 1
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "FMNH 120896" ; Times: 2
+	Query: "FMNH 120897" ; Times: 1
+	Query: "FMNH 120894" ; Times: 2
+	Query: "FMNH 120895" ; Times: 1
+	Query: "FMNH 114059" ; Times: 2
+	Query: "FMNH 120893" ; Times: 2
+	Query: "pristis pristis" ; Times: 2
+	Query: "FMNH 114051" ; Times: 2
+	Query: "Necturus fmnh" ; Times: 1
+	Query: "FMNH 120898" ; Times: 3
+	Query: "FMNH 114052" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1084 download events in this period)
+Total number of records downloaded: 8729 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8321
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "iguana iguana" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1830
+Total number of records retrieved from searches: 14295
+Number of download events that retrieved data from the resource: 67
+Total number of records downloaded: 28376
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1872
+Total number of records retrieved from searches: 14456
+Number of download events that retrieved data from the resource: 202
+Total number of records downloaded: 87060
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.

@@ -1,0 +1,184 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 369
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 109
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 9
+	Date: 2015-12-17 ; Times: 11
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 31
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-07 ; Times: 7
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-14 ; Times: 9
+	Date: 2015-12-15 ; Times: 7
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-10 ; Times: 6
+	Date: 2015-12-11 ; Times: 22
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 3
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "FMNH 59508" ; Times: 1
+	Query: "FMNH 76361" ; Times: 1
+	Query: "FMNH 62794" ; Times: 1
+	Query: "Laemolyta orinocensis" ; Times: 1
+	Query: "FMNH 59505" ; Times: 1
+	Query: "diplobatis" ; Times: 2
+	Query: "FMNH 56316" ; Times: 1
+	Query: "FMNH 56554" ; Times: 4
+	Query: "FMNH 56555" ; Times: 2
+	Query: "FMNH 80715" ; Times: 1
+	Query: "Curimata roseni" ; Times: 1
+	Query: "Scutiger type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 85530" ; Times: 1
+	Query: "FMNH 80415" ; Times: 1
+	Query: "typhlichthys edmonson" ; Times: 1
+	Query: "FMNH 105777" ; Times: 1
+	Query: "106669" ; Times: 1
+	Query: "FMNH 69596" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 4
+	Query: "catalognumber:47170 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 50165" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "catalognumber:32932 institutioncode:FMNH" ; Times: 2
+	Query: "locality:Madiera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 2
+	Query: "116021" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "87330 institutioncode:FMNH" ; Times: 1
+	Query: "Remora australis" ; Times: 1
+	Query: "FMNH 58673" ; Times: 2
+	Query: "FMNH 56043" ; Times: 1
+	Query: "FMNH 103683" ; Times: 1
+	Query: "FMNH 56611" ; Times: 1
+	Query: "torpedo" ; Times: 2
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "FMNH 104000" ; Times: 1
+	Query: "cynoglossus carpenteri" ; Times: 1
+	Query: "FMNH 45701" ; Times: 1
+	Query: "hemiramphus saltator" ; Times: 1
+	Query: "catalognumber:3293 institutioncode:FMNH" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "FMNH 70223" ; Times: 2
+	Query: "FMNH 85478" ; Times: 1
+	Query: "Anostomus ternetzi" ; Times: 1
+	Query: "tetronarce" ; Times: 1
+	Query: "Schizodon isognathus FMNH" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "microphilypnus" ; Times: 1
+	Query: "FMNH 10281" ; Times: 1
+	Query: "FMNH 10283" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "catalognumber:34587 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 69579" ; Times: 1
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "pterois miles" ; Times: 1
+	Query: "FMNH 78088" ; Times: 1
+	Query: "FMNH 104021" ; Times: 1
+	Query: "92825 type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "FMNH 56612" ; Times: 1
+	Query: "FMNH 57717" ; Times: 1
+	Query: "FMNH 111338" ; Times: 1
+	Query: "catalognumber:60639 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 78099" ; Times: 1
+	Query: "FMNH 76359" ; Times: 1
+	Query: "FMNH 53383" ; Times: 1
+	Query: "sargocentron spiniferum" ; Times: 4
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "113810" ; Times: 1
+	Query: "FMNH 78097" ; Times: 2
+	Query: "FMNH 78096" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "malacoctenus puertoricensis" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "FMNH 80720" ; Times: 1
+	Query: "Williams 1955" ; Times: 2
+	Query: "FMNH 111326" ; Times: 1
+	Query: "FMNH 92303" ; Times: 1
+	Query: "FMNH 53393" ; Times: 1
+	Query: "catalognumber:98905 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 53396" ; Times: 1
+	Query: "FMNH 53395" ; Times: 1
+	Query: "FMNH 53394" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "FMNH 109384" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "catalognumber:32930 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 7323" ; Times: 1
+	Query: "leptophilypnus" ; Times: 1
+	Query: "discopyge" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "FMNH 122963" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "Cyphocharax spilurus" ; Times: 5
+	Query: "Leporinus mormyrops" ; Times: 1
+	Query: "Mormyrus" ; Times: 1
+	Query: "catalognumber:93956 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 53366" ; Times: 1
+	Query: "FMNH 53361" ; Times: 1
+	Query: "Curimatella alburna" ; Times: 1
+	Query: "73952" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 889 download events in this period)
+Total number of records downloaded: 1723
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "locality:Rio Colorado country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.

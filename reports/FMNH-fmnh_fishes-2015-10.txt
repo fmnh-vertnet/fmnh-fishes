@@ -1,0 +1,163 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 29
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-18 ; Times: 10
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "porotergus gymnotus" ; Times: 1
+	Query: "halichoeres scapularis" ; Times: 1
+	Query: "albania" ; Times: 1
+	Query: "Stegastes leucorus" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "synagrops philippinensis" ; Times: 1
+	Query: "FMNH 87057" ; Times: 1
+	Query: "laticauda institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 83316" ; Times: 1
+	Query: "fmnh 109940" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "heptranchias" ; Times: 1
+	Query: "FMNH 78186" ; Times: 1
+	Query: "specificepithet:panamensis genus:Azevia continent:North America" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Zimmer" ; Times: 2
+	Query: "121056" ; Times: 2
+	Query: "FMNH 81651" ; Times: 1
+	Query: "FMNH Pitman" ; Times: 1
+	Query: "FMNH 113718" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "R-118591 palau" ; Times: 1
+	Query: "FMNH 69909" ; Times: 2
+	Query: "pelamis institutioncode:FMNH" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "FMNH 78191" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Anderson" ; Times: 2
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "FMNH 62415" ; Times: 1
+	Query: "(Sabah AND Sarawak)" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "FMNH 81208" ; Times: 1
+	Query: "FMNH 69911" ; Times: 1
+	Query: "FMNH 81206" ; Times: 1
+	Query: "FMNH 81204" ; Times: 1
+	Query: "FMNH 81205" ; Times: 1
+	Query: "fishes chihuahua" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "FMNH 88524" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "88527 fmnh" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "FMNH 69910" ; Times: 2
+	Query: "118907 palau" ; Times: 2
+	Query: "FMNH 69913" ; Times: 1
+	Query: "FMNH 69914" ; Times: 1
+	Query: "FMNH 55986" ; Times: 1
+	Query: "fmnh 89265" ; Times: 1
+	Query: "sylhet" ; Times: 2
+	Query: "43288" ; Times: 1
+	Query: "fmnh 42687" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "fmnh 88525" ; Times: 1
+	Query: "fmnh 89266" ; Times: 1
+	Query: "Remorina albescens" ; Times: 1
+	Query: "fmnh 89262" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 823 download events in this period)
+Total number of records downloaded: 3366
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "PARAGUAY" ; Times: 1
+	Query: "gambusia affinis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "lynx institutioncode:FMNH" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Schunke" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "sylhet" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "fishes chihuahua" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "country:&#34;Peru&#34; recordedby:Osgood" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Anderson" ; Times: 1
+
+
+End of report.

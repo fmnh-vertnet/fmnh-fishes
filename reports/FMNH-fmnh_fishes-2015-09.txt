@@ -1,0 +1,217 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 448
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: French Guiana ; Times: 6
+	Country: Chile ; Times: 3
+	Country: United States ; Times: 99
+	Country: Russia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 22
+	Date: 2015-09-25 ; Times: 16
+	Date: 2015-09-22 ; Times: 4
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-23 ; Times: 34
+	Date: 2015-09-07 ; Times: 8
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 7
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-26 ; Times: 4
+	Date: 2015-09-21 ; Times: 17
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-30 ; Times: 9
+	Date: 2015-09-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Porotergus" ; Times: 2
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "FMNH 120931" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "bryx" ; Times: 1
+	Query: "FMNH 123143" ; Times: 2
+	Query: "FMNH 120940" ; Times: 1
+	Query: "FMNH 120941" ; Times: 2
+	Query: "FMNH 123147" ; Times: 4
+	Query: "Feia" ; Times: 1
+	Query: "WED 50309" ; Times: 1
+	Query: "FMNH 120923" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "panaque" ; Times: 3
+	Query: "pterois russellii" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "FMNH 28793" ; Times: 1
+	Query: "FMNH 124090" ; Times: 2
+	Query: "FMNH 58243" ; Times: 1
+	Query: "FMNH 58244" ; Times: 1
+	Query: "WED 52978" ; Times: 2
+	Query: "distance(location,geopoint(23.6802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "gymnura marmorata" ; Times: 2
+	Query: "WED 57619" ; Times: 1
+	Query: "FMNH 58726" ; Times: 1
+	Query: "FMNH 81110" ; Times: 1
+	Query: "FMNH 81685" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "FMNH 64660" ; Times: 1
+	Query: "FMNH 81118" ; Times: 1
+	Query: "specificepithet:brevirostrum genus:acipenser" ; Times: 3
+	Query: "christobal" ; Times: 1
+	Query: "minous monodactylus" ; Times: 1
+	Query: "FMNH 120935" ; Times: 2
+	Query: "FMNH 120934" ; Times: 2
+	Query: "Aphos" ; Times: 3
+	Query: "FMNH 120936" ; Times: 2
+	Query: "catalognumber:2227 institutioncode:fmnh" ; Times: 1
+	Query: "FMNH 120930" ; Times: 2
+	Query: "FMNH 120933" ; Times: 2
+	Query: "FMNH 120932" ; Times: 2
+	Query: "FMNH 81111" ; Times: 1
+	Query: "FMNH 120939" ; Times: 2
+	Query: "FMNH 120938" ; Times: 2
+	Query: "catalognumber:95999 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 81104" ; Times: 1
+	Query: "FMNH 81107" ; Times: 1
+	Query: "catalognumber:95994 institutioncode:FMNH" ; Times: 3
+	Query: "FMNH 81103" ; Times: 1
+	Query: "FMNH 81102" ; Times: 1
+	Query: "FMNH 64654" ; Times: 1
+	Query: "FMNH 64655" ; Times: 1
+	Query: "FMNH 64657" ; Times: 1
+	Query: "FMNH 81109" ; Times: 1
+	Query: "FMNH 81108" ; Times: 1
+	Query: "rio mato country:&#34;venezuela&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:57601 institutioncode:FMNH" ; Times: 2
+	Query: "58779" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "cosmocampus" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "distance(location,geopoint(23.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Aulichthys" ; Times: 1
+	Query: "FMNH 125986" ; Times: 1
+	Query: "FMNH 64485" ; Times: 1
+	Query: "FMNH 64484" ; Times: 1
+	Query: "FMNH 64483" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "FMNH 123144" ; Times: 2
+	Query: "FMNH 47090" ; Times: 3
+	Query: "90670" ; Times: 1
+	Query: "FMNH 120937" ; Times: 2
+	Query: "WED 58779" ; Times: 3
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "FMNH 58730" ; Times: 1
+	Query: "FMNH 102860" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "locality:taquara" ; Times: 1
+	Query: "FMNH 121258" ; Times: 2
+	Query: "64800" ; Times: 1
+	Query: "catalognumber:95741 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 120928" ; Times: 2
+	Query: "FMNH 120929" ; Times: 2
+	Query: "paloma" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "FMNH 120926" ; Times: 2
+	Query: "FMNH 120927" ; Times: 2
+	Query: "FMNH 120924" ; Times: 2
+	Query: "FMNH 120925" ; Times: 1
+	Query: "FMNH 58729" ; Times: 1
+	Query: "FMNH 58728" ; Times: 1
+	Query: "FMNH 58727" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "distance(location,geopoint(23.7802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "syngnathoides biaculeatus" ; Times: 3
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1045 download events in this period)
+Total number of records downloaded: 45905
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-07 ; Times: 4
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Dasyatis dipterura" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Moresby" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "gymnura marmorata" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+
+
+End of report.

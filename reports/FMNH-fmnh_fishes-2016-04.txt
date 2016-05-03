@@ -1,0 +1,442 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 254
+Number of records retrieved in searches: 1345
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 41
+	Country: United States ; Times: 65
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 19
+	Country: Panama ; Times: 22
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 78
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 34
+	Date: 2016-04-06 ; Times: 18
+	Date: 2016-04-05 ; Times: 11
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 12
+	Date: 2016-04-08 ; Times: 24
+	Date: 2016-04-25 ; Times: 9
+	Date: 2016-04-24 ; Times: 12
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 17
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 16
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 6
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 3
+	Date: 2016-04-13 ; Times: 33
+	Date: 2016-04-29 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "enchelycore maldives" ; Times: 1
+	Query: "uropterygius supraforatus" ; Times: 2
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "kaupichthys maldives" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "synodus jaculum" ; Times: 1
+	Query: "liopropoma maldives" ; Times: 1
+	Query: "Santa Rosa Island type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-111.997516))&lt;15000" ; Times: 1
+	Query: "apogonidae maldive" ; Times: 2
+	Query: "uropterygius maldives" ; Times: 4
+	Query: "Coregonus nigripinnis Ontario" ; Times: 10
+	Query: "megalura" ; Times: 1
+	Query: "fossil institutioncode:FMNH" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Hippoglossina" ; Times: 2
+	Query: "syngnathidae maldives" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 2
+	Query: "58425" ; Times: 1
+	Query: "synodus maldives" ; Times: 3
+	Query: "echidna delicatula" ; Times: 1
+	Query: "hemiramphidae maldives" ; Times: 1
+	Query: "FMNH AND 116381" ; Times: 1
+	Query: "distance(location,geopoint(27.049036,-111.827516))&lt;15000" ; Times: 1
+	Query: "gymnothorax pseudoherrei maldives" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-112.167516))&lt;15000" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "anarhichas minor" ; Times: 1
+	Query: "fowleria maldives" ; Times: 2
+	Query: "fmnh 75525" ; Times: 1
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "conger maldives" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "PLATYRHINIDAE" ; Times: 1
+	Query: "mustelus higmani" ; Times: 1
+	Query: "FMNH 86915" ; Times: 1
+	Query: "FMNH 95783" ; Times: 1
+	Query: "scorpaenodes maldives" ; Times: 1
+	Query: "clupeidae maldives" ; Times: 1
+	Query: "genus:Pimelodella country:&#34;Panama&#34;" ; Times: 2
+	Query: "NEMATISTIIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.617516))&lt;15000" ; Times: 1
+	Query: "apterichtus maldives" ; Times: 1
+	Query: "FMNH 78217" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "Hypleurochilus bermudensis" ; Times: 2
+	Query: "platycephalidae maldives" ; Times: 2
+	Query: "Cardinalis cardinalis type:specimen year &gt;= 2005 year &lt;= 2015 institutioncode:FMNH" ; Times: 1
+	Query: "carapidae maldives" ; Times: 1
+	Query: "Strongylura exilis" ; Times: 1
+	Query: "antennarius avalonis" ; Times: 1
+	Query: "belonidae maldives" ; Times: 1
+	Query: "fmnh 8223" ; Times: 1
+	Query: "FMNH 92126" ; Times: 2
+	Query: "108467" ; Times: 1
+	Query: "brotula maldives" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Muraena robusta" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "polystictus" ; Times: 1
+	Query: "echidna maldives" ; Times: 4
+	Query: "Gasterosteus aculeatus Ontario" ; Times: 1
+	Query: "exocoetidae maldives" ; Times: 3
+	Query: "Santa Catalina Island type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 4
+	Query: "M. Daily" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "Ichthyomyzon fossor Ontario" ; Times: 10
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "atherinidae maldives" ; Times: 1
+	Query: "congridae maldives" ; Times: 4
+	Query: "Santa Cruz Island type:specimen institutioncode:FMNH" ; Times: 2
+	Query: "hyporhamphus maldives" ; Times: 1
+	Query: "moringua maldives" ; Times: 1
+	Query: "scorpaenopsis maldives" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-111.997516))&lt;15000" ; Times: 1
+	Query: "leiuranus maldives" ; Times: 1
+	Query: "SYMPHYSANODONTIDAE" ; Times: 1
+	Query: "FMNH 67" ; Times: 1
+	Query: "Muraena" ; Times: 3
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "fmnh 75793" ; Times: 1
+	Query: "fmnh 75792" ; Times: 1
+	Query: "fmnh 75791" ; Times: 1
+	Query: "ostraciidae maldive" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-111.997516))&lt;15000" ; Times: 2
+	Query: "Tylosurus" ; Times: 1
+	Query: "gymnothorax melatremus maldives" ; Times: 1
+	Query: "fmnh 75661" ; Times: 1
+	Query: "Zalieutes" ; Times: 2
+	Query: "ophichthidae maldives" ; Times: 1
+	Query: "Coregonus zenithicus Ontario" ; Times: 10
+	Query: "Wright AND Island AND FMNH" ; Times: 1
+	Query: "fmnh 43289" ; Times: 2
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 3
+	Query: "aporops maldives" ; Times: 1
+	Query: "(chalco)" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "cypselurus comatus" ; Times: 3
+	Query: "fmnh 112565" ; Times: 2
+	Query: "FMNH 86916" ; Times: 1
+	Query: "Santa Barbara Island type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Iotabrycon" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "gymnothorax maldives" ; Times: 4
+	Query: "75377" ; Times: 2
+	Query: "muraenichthys maldives" ; Times: 3
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "batjanensis" ; Times: 1
+	Query: "chaetodon unimaculatus" ; Times: 1
+	Query: "dimidiata" ; Times: 1
+	Query: "trimma maldives" ; Times: 1
+	Query: "anarchias maldives" ; Times: 1
+	Query: "103433" ; Times: 2
+	Query: "FMNH 109663" ; Times: 1
+	Query: "polynemidae maldive" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "scorpaenidae maldives" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "FMNH 94446" ; Times: 1
+	Query: "FMNH 94441" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen year &gt;= 2004 year &lt;= 2015 institutioncode:FMNH" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "gymnothorax bathyphilus" ; Times: 2
+	Query: "Coregonus hoyi Ontario" ; Times: 10
+	Query: "gymnothorax moluccensis maldives" ; Times: 2
+	Query: "SCOMBROPIDAE" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "periophthalmus maldive" ; Times: 1
+	Query: "gymnothorax monochronus maldives" ; Times: 2
+	Query: "Felis AND Island" ; Times: 1
+	Query: "beebei" ; Times: 1
+	Query: "specificepithet:mordax genus:Engraulis country:USA" ; Times: 18
+	Query: "brachysomophis maldives" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "PERISTEDIIDAE" ; Times: 2
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "naso maldive" ; Times: 1
+	Query: "FMNH 94452" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 232 (out of 1312 download events in this period)
+Total number of records downloaded: 89830
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Panama ; Times: 223
+	Country: Argentina ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 82
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-20 ; Times: 3
+	Date: 2016-04-23 ; Times: 10
+	Date: 2016-04-22 ; Times: 113
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "GRAMMATIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "Minnesota Point" ; Times: 1
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 2
+	Query: "anarhichas minor" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "PLATYRHINIDAE" ; Times: 2
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "NEMATISTIIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "ARIOMMATIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "SYMPHYSANODONTIDAE" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "SCOMBROPIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "cypselurus comatus" ; Times: 1
+	Query: "OPISTOGNATHIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "CHLOPSIDAE" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "PERISTEDIIDAE" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "PARAZENIDAE" ; Times: 1
+
+
+End of report.

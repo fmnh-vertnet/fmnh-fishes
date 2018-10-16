@@ -1,0 +1,277 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 260
+Number of records retrieved in searches: 2818
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 199
+	Country: Morocco ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 22
+	Country: Colombia ; Times: 6
+	Country: Dominican Republic ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 12
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 24
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 9
+	Date: 2018-05-24 ; Times: 13
+	Date: 2018-05-25 ; Times: 11
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-04 ; Times: 58
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 5
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-31 ; Times: 17
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 5
+	Date: 2018-05-17 ; Times: 7
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 25
+	Date: 2018-05-10 ; Times: 27
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:thayeri family:Cichlidae" ; Times: 1
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "specificepithet:bulleri genus:Paraneetroplus family:Cichlidae" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:mariae institutioncode:FMNH" ; Times: 1
+	Query: "&#34;labeo nigripinnis&#34;" ; Times: 2
+	Query: "Labeo bata" ; Times: 3
+	Query: "Dysommina" ; Times: 1
+	Query: "Trichomycterus hasemani" ; Times: 1
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "specificepithet:bulleri genus:Paraneetroplus" ; Times: 1
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "Labeo forskalii" ; Times: 1
+	Query: "specificepithet:panamensis family:Cichlidae" ; Times: 1
+	Query: "FMNH 62326" ; Times: 1
+	Query: "typhlichthys" ; Times: 1
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "Albulidae year &gt;= 1992 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "FMNH 52313" ; Times: 1
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "specificepithet:taenia family:Cichlidae" ; Times: 1
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "catalognumber:67144 institutioncode:FMNH" ; Times: 1
+	Query: "120649 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:mariae genus:Bujurquina institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "leporinus pearsoni" ; Times: 1
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "specificepithet:guyanae family:Cichlidae" ; Times: 2
+	Query: "labeo niloticus" ; Times: 1
+	Query: "Labeo microphthalmus" ; Times: 1
+	Query: "specificepithet:mariae genus:Bujurquina" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:owroewefi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "specificepithet:grammodes institutioncode:FMNH" ; Times: 3
+	Query: "specificepithet:myrnae genus:Archocentrus" ; Times: 1
+	Query: "stateprovince:&#34;loreto&#34; country:&#34;peru&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Tomicodon petersii" ; Times: 3
+	Query: "pontianak" ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "genus:Thorichthys institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "genus:Tahuantinsuyoa" ; Times: 1
+	Query: "specificepithet:spurius genus:Heros" ; Times: 1
+	Query: "FMNH 166" ; Times: 1
+	Query: "genus:Oscura" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "specificepithet:dorsiger genus:Laetacara" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "genus:Neetroplus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guianensis family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "FMNH 108854" ; Times: 1
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "specificepithet:blombergi genus:Andinoacara institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:51110 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:osgoodi " ; Times: 2
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:tuyrense family:Cichlidae" ; Times: 1
+	Query: "Pseudochromidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "FMNH 124498" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "catalognumber:8679 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:sapayensis genus:Aequidens family:Cichlidae" ; Times: 2
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "FMNH 58385" ; Times: 2
+	Query: "catalognumber:7272 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "genus:Theraps" ; Times: 1
+	Query: "FMNH 40708" ; Times: 1
+	Query: "catalognumber:7551 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 62319" ; Times: 1
+	Query: "specificepithet:microlepis genus:Cichlasoma" ; Times: 1
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "FMNH 62316" ; Times: 1
+	Query: "FMNH 62315" ; Times: 1
+	Query: "FMNH 62314" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "catalognumber:56141 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Vieja" ; Times: 1
+	Query: "specificepithet:grammodes genus:Cichlasoma" ; Times: 2
+	Query: "Gobiesox adustus" ; Times: 3
+	Query: "genus:Andinoacara institutioncode:FMNH" ; Times: 1
+	Query: "Atherinidae year &gt;= 1995 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "FMNH 623226" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "pseudochalceus" ; Times: 1
+	Query: "genus:Rocio" ; Times: 1
+	Query: "catalognumber:7487 institutioncode:FMNH" ; Times: 2
+	Query: "distance(location,geopoint(43.4354155745,-87.8734533689999))&lt;12687" ; Times: 2
+	Query: "specificepithet:microlepis institutioncode:FMNH" ; Times: 3
+	Query: "107218" ; Times: 1
+	Query: "genus:Bujurquina" ; Times: 1
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "hyphessobrycon inconstans" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "genus:Krobia" ; Times: 1
+	Query: "fmnh 105031" ; Times: 1
+	Query: "specificepithet:eurhinus family:Cichlidae" ; Times: 1
+	Query: "626253" ; Times: 3
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "specificepithet:heterospila family:Cichlidae institutioncode:FMNH" ; Times: 1
+	Query: "genus:Guianacara" ; Times: 3
+	Query: "distance(location,geopoint(45.230270587934,-86.9701541667045))&lt;16538" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "FMNH 76865" ; Times: 1
+	Query: "specificepithet:blombergi institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 108831" ; Times: 1
+	Query: "specificepithet:umbriferum genus:Cichlasoma" ; Times: 1
+	Query: "11572 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:microlepis genus:Cichlasoma institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "&#34;labeo niloticus&#34;" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "specificepithet:rivulatus genus:Andinoacara institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "genus:Trichromis" ; Times: 1
+	Query: "FMNH 58389" ; Times: 1
+	Query: "FMNH 58388" ; Times: 7
+	Query: "Labeo fisheri" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "barbus cercops" ; Times: 2
+	Query: "genus:Petenia" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "FMNH 48076" ; Times: 1
+	Query: "catalognumber:54121 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 48075" ; Times: 3
+	Query: "specificepithet:vultuosa institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vultuosa genus:Acaronia institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:argenteus family:Cichlidae" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "genus:Tomocichla" ; Times: 1
+	Query: "specificepithet:octofasciata genus:Rocio" ; Times: 1
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "family:Mullidae institutioncode:FMNH" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "62245" ; Times: 1
+	Query: "catalognumber:67844 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "specificepithet:blombergi genus:Andinoacara" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "specificepithet:festae genus:Cichlasoma" ; Times: 1
+	Query: "FMNH 42315" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 2
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "specificepithet:egregius genus:Mesonauta" ; Times: 1
+	Query: "Apogon atricaudus" ; Times: 7
+	Query: "genus:Ivanacara" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "genus:Nannacara institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:blombergi" ; Times: 2
+	Query: "specificepithet:panamensis family:Cichlidae institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:microlepis family:Cichlidae institutioncode:FMNH" ; Times: 1
+	Query: "genus:Cincelichthys" ; Times: 1
+	Query: "catalognumber:61744 institutioncode:FMNH" ; Times: 2
+	Query: "Senckenberg museum" ; Times: 1
+	Query: "Apogon atradorsatus" ; Times: 3
+	Query: "Apogon retrosella" ; Times: 2
+	Query: "catalognumber:7595 institutioncode:FMNH" ; Times: 1
+	Query: "Atherinidae hastissue:1" ; Times: 2
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "specificepithet:isonycterina family:Cichlidae institutioncode:FMNH" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "specificepithet:ornatum family:Cichlidae" ; Times: 1
+	Query: "Labeo gonius" ; Times: 3
+	Query: "catalognumber:90599 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Heroina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1178 download events in this period)
+Total number of records downloaded: 293
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "vntype:specimen country:&#34;Bolivia&#34; recordedby:steinbach year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.

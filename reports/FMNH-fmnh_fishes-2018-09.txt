@@ -1,0 +1,209 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 892
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 14
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 88
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-05 ; Times: 8
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 10
+	Date: 2018-09-01 ; Times: 8
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 14
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 7
+	Date: 2018-09-09 ; Times: 5
+	Date: 2018-09-28 ; Times: 4
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-10 ; Times: 5
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 7
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 10
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 7
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-20 ; Times: 17
+	Date: 2018-09-07 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "FMNH 12108" ; Times: 1
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "dekeyseria amazonica" ; Times: 1
+	Query: "Astronesthes indopacificus" ; Times: 1
+	Query: "sphoeroides nephelus hastissue:1" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "gasterosteus california &#34;san luis obispo&#34; vntype:specimen" ; Times: 1
+	Query: "FMNH 128811" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "locality:corinto year &gt;= 1890 year &lt;= 1910" ; Times: 2
+	Query: "80729" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Astronesthes chrysophekadion" ; Times: 1
+	Query: "locality:Nazareth country:&#34;Peru&#34; institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 128787" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "specificepithet:diapterus genus:Lycodes hastissue:1" ; Times: 1
+	Query: "FMNH 1034" ; Times: 2
+	Query: "FMNH 128845" ; Times: 1
+	Query: "Conocara murrayi" ; Times: 1
+	Query: "yasuni" ; Times: 1
+	Query: "Bathophilus metallicus" ; Times: 1
+	Query: "potamotrygon tigrina" ; Times: 2
+	Query: "117645" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "catalognumber:105069 institutioncode:FMNH" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "Melanostomias tentaculatus" ; Times: 1
+	Query: "astyanax cave" ; Times: 1
+	Query: "photoblepharon steinitzi" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "potamotrygon signata" ; Times: 5
+	Query: "catalognumber:122039 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:hasemani genus:parapteronotus" ; Times: 1
+	Query: "FMNH 128960" ; Times: 2
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Hemigrammus ocellifer" ; Times: 1
+	Query: "Chauliodus schmidti" ; Times: 1
+	Query: "FMNH 129076" ; Times: 2
+	Query: "117648" ; Times: 1
+	Query: "Channa maculata" ; Times: 1
+	Query: "Doryrhamphus hastissue:1" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "Photonectes dinema" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "Squatina oculata" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "catalognumber:47207 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 128936" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "Peckoltia brevis" ; Times: 1
+	Query: "hoplias aimara" ; Times: 1
+	Query: "FMNH 100582" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "Leptostomias bilobatus" ; Times: 1
+	Query: "hypostomus oculeus" ; Times: 1
+	Query: "sarg" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "hypostomus corantijni" ; Times: 1
+	Query: "Anomalurus" ; Times: 3
+	Query: "genus:Pseudotropheus specificepithet:lucerna" ; Times: 1
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "FMNH 128925" ; Times: 1
+	Query: "catalognumber:8697 institutioncode:FMNH" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "specificepithet:gilbertii stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "Peckoltia vittata" ; Times: 1
+	Query: "FMNH 125088" ; Times: 2
+	Query: "FMNH 73892" ; Times: 1
+	Query: "institutioncode:FMNH hastypestatus:1" ; Times: 1
+	Query: "FMNH 128825" ; Times: 2
+	Query: "FMNH 14885" ; Times: 1
+	Query: "catalognumber:99210 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 73894" ; Times: 1
+	Query: "FMNH 73895" ; Times: 1
+	Query: "specificepithet:undulatus genus:menticirrhus" ; Times: 1
+	Query: "hypostomus albopunctatus" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "FMNH 92669" ; Times: 1
+	Query: "117622" ; Times: 1
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "FMNH 128926" ; Times: 1
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "caballos" ; Times: 1
+	Query: "Cichlasoma gephyrum" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "hypostomus paulinus" ; Times: 1
+	Query: "Ceratoscopelus townsendi" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Paget" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "117617" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "locality:Corinto" ; Times: 1
+	Query: "FMNH 47124" ; Times: 1
+	Query: "Potamotrygon yepezi" ; Times: 1
+	Query: "FMNH 10169" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "Adontosternarchus nebulosus" ; Times: 1
+	Query: "county:&#34;Colombia&#34;" ; Times: 1
+	Query: "Paget Island" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "FMNH 128809" ; Times: 1
+	Query: "sphoeroides nephelus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 846 download events in this period)
+Total number of records downloaded: 89
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 3
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Astronesthes indopacificus" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "potamotrygon tigrina" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+
+
+End of report.

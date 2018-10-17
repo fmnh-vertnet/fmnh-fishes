@@ -1,0 +1,358 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 536
+Number of records retrieved in searches: 11286
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 17
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 4
+	Country: United States ; Times: 442
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 16
+	Country: Colombia ; Times: 3
+	Country: Kuwait ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 14
+	Date: 2018-06-05 ; Times: 19
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 12
+	Date: 2018-06-02 ; Times: 6
+	Date: 2018-06-01 ; Times: 7
+	Date: 2018-06-25 ; Times: 6
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 195
+	Date: 2018-06-20 ; Times: 52
+	Date: 2018-06-23 ; Times: 10
+	Date: 2018-06-08 ; Times: 5
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 29
+	Date: 2018-06-13 ; Times: 102
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-15 ; Times: 7
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 17
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "Naso vlamingi" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 2
+	Query: "95500" ; Times: 1
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "FMNH 3714" ; Times: 1
+	Query: "Acanthurus randalli" ; Times: 2
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Acanthurus grammoptilus" ; Times: 4
+	Query: "Naso annulatus" ; Times: 2
+	Query: "percina nasuta" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "catalognumber:129311 institutioncode:FMNH" ; Times: 1
+	Query: "boleophthalmus dussumieri" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "FMNH 71508" ; Times: 1
+	Query: "Acanthurus nubilus" ; Times: 2
+	Query: "locality:Paw Paw stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 4
+	Query: "Naso annulatus mappable:1" ; Times: 2
+	Query: "FMNH 49097" ; Times: 2
+	Query: "Teuthis guentheri" ; Times: 2
+	Query: "Xesurus laticlavius" ; Times: 1
+	Query: "catalognumber:6398 institutioncode:FMNH" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Acanthurus triostegus sandvicensis" ; Times: 1
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Acanthurus fowleri mappable:1" ; Times: 3
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "catalognumber:9392 institutioncode:FMNH" ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "49503" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "59215" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "FMNH 2081" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "FMNH 52903" ; Times: 1
+	Query: "FMNH 52902" ; Times: 1
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "fmnh 92646" ; Times: 1
+	Query: "Ctenochaetus tominiensis" ; Times: 2
+	Query: "specificepithet:grammodes" ; Times: 2
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "fmnh 92649" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "corniger" ; Times: 1
+	Query: "Naso tuberosus mappable:1" ; Times: 4
+	Query: "50623" ; Times: 4
+	Query: "gadiformes hasmedia:1" ; Times: 1
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "psychrolutes" ; Times: 1
+	Query: "Acanthurus bariene" ; Times: 7
+	Query: "Hepatus dussumieri" ; Times: 2
+	Query: "Naso vlamingii" ; Times: 2
+	Query: "Oreochromis schwebischi" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "FMNH 91030" ; Times: 1
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "Naso vlamingii mappable:1" ; Times: 2
+	Query: "tridentopsis pearsoni" ; Times: 1
+	Query: "Naso lopezi mappable:1" ; Times: 2
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "family:Mullidae institutioncode:FMNH" ; Times: 3
+	Query: "664429" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "catalognumber:106958 institutioncode:FMNH" ; Times: 2
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "Naso brachycentron" ; Times: 2
+	Query: "Acanthurus fowleri" ; Times: 3
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "Acanthurus auranticavus mappable:1" ; Times: 3
+	Query: "humming bird" ; Times: 4
+	Query: "catalognumber:1226 institutioncode:FMNH" ; Times: 1
+	Query: "lebiasina" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Hepatus olivaceus" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "labeo dussumieri" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "FMNH 81209" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "70092" ; Times: 1
+	Query: "Acanthurus auranticavus" ; Times: 3
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "36384`1" ; Times: 1
+	Query: "specificepithet:microphthalmus family:Cichlidae" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "specificepithet:taeniata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Acanthurus nubilus mappable:1" ; Times: 2
+	Query: "catalognumber:1486 institutioncode:FMNH" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "52549" ; Times: 1
+	Query: "Teuthis guentheri mappable:1" ; Times: 2
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 2
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "360050" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "catalognumber:15925 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:124236 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 69946" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "vntype:specimen (Casuarius casuarius) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "FMNH 62293" ; Times: 1
+	Query: "Acanthurus argenteus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "FMNH 57789" ; Times: 2
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "fluviphylax" ; Times: 1
+	Query: "Anomalurus" ; Times: 4
+	Query: "Prionurus scalprum" ; Times: 2
+	Query: "64939" ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "Acanthurus japonicus mappable:1" ; Times: 4
+	Query: "Zebrasoma rostratum mappable:1" ; Times: 2
+	Query: "FMNH 58376" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "vandellia sanguinea" ; Times: 1
+	Query: "specificepithet:viridis institutioncode:FMNH" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "Rhinichthys obtusus" ; Times: 1
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "FMNH 129208" ; Times: 1
+	Query: "gilbertii" ; Times: 1
+	Query: "Acanthurus monroviae" ; Times: 2
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "FMNH 58377" ; Times: 1
+	Query: "FMNH 57790" ; Times: 2
+	Query: "Acanthurus aliala" ; Times: 1
+	Query: "azurina hirundo" ; Times: 1
+	Query: "Chaetodon lineatus" ; Times: 2
+	Query: "Trichomycterus paolence" ; Times: 1
+	Query: "catalognumber:15789 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:91078 institutioncode:FMNH" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "scoloplax" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Tomicodon zebra" ; Times: 2
+	Query: "catalognumber:122055 institutioncode:FMNH" ; Times: 2
+	Query: "Naso brachycentron mappable:1" ; Times: 2
+	Query: "FMNH 57791" ; Times: 3
+	Query: "Acanthurus chrysosoma mappable:1" ; Times: 1
+	Query: "FMNH 62296" ; Times: 1
+	Query: "FMNH 62297" ; Times: 2
+	Query: "FMNH 62294" ; Times: 1
+	Query: "FMNH 62295" ; Times: 1
+	Query: "FMNH 62111" ; Times: 1
+	Query: "Acanthurus chrysosoma" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "FMNH 72773" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "family:Acanthuridae institutioncode:FMNH" ; Times: 6
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Cichlasoma family:Cichlidae" ; Times: 2
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "specificepithet:vittatus family:Cichlidae" ; Times: 1
+	Query: "catalognumber:8841 institutioncode:FMNH" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "catalognumber:120750 institutioncode:FMNH" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "catalognumber:106843 institutioncode:FMNH" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "Naso lopezi" ; Times: 2
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Gila bicolor" ; Times: 1
+	Query: "Hyphessobrycon bentosi" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "Dentatherina" ; Times: 1
+	Query: "Teuthis atrimentatus" ; Times: 1
+	Query: "specificepithet:grammodes family:Cichlidae" ; Times: 1
+	Query: "Hepatus sandvicensis" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "catalognumber:51659 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:microlepis family:Cichlidae" ; Times: 1
+	Query: "orestias" ; Times: 1
+	Query: "catalognumber:7571 institutioncode:FMNH" ; Times: 2
+	Query: "Barbodes binotatus" ; Times: 1
+	Query: "FMNH 57774" ; Times: 1
+	Query: "&#34;Paw Paw&#34; vntype:specimen stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "catalognumber:54136 institutioncode:FMNH" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "FMNH 58358" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "94944" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "56785" ; Times: 1
+	Query: "catalognumber:9627 institutioncode:FMNH" ; Times: 1
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "catalognumber:7562 institutioncode:FMNH" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "catalognumber:124483 institutioncode:FMNH" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "specificepithet:buckleyi " ; Times: 1
+	Query: "catalognumber:120780 institutioncode:FMNH" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "FMNH 48080" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "Acanthurus monroviae mappable:1" ; Times: 2
+	Query: "FMNH 69951" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "FMNH 62292" ; Times: 2
+	Query: "Acanthurus triostegus marquesensis" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "Labrichthys unilineatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1169 download events in this period)
+Total number of records downloaded: 248
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; recordedby:Hershkovitz institutioncode:FMNH" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "humming bird" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "penguin" ; Times: 2
+
+
+End of report.

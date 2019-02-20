@@ -1,0 +1,235 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 559
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: Jamaica ; Times: 1
+	Country: Netherlands ; Times: 12
+	Country: Colombia ; Times: 7
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 27
+	Country: South Africa ; Times: 6
+	Country: France ; Times: 51
+	Country: United States ; Times: 49
+	Country: Ecuador ; Times: 32
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 28
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 9
+	Country: Argentina ; Times: 5
+	Country: Venezuela ; Times: 5
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 21
+	Date: 2019-01-23 ; Times: 26
+	Date: 2019-01-18 ; Times: 8
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 9
+	Date: 2019-01-30 ; Times: 44
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-03 ; Times: 7
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-07 ; Times: 9
+	Date: 2019-01-04 ; Times: 29
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 43
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 5
+	Date: 2019-01-27 ; Times: 5
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "84998" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Hypsurus caryi" ; Times: 1
+	Query: "FMNH 52912" ; Times: 2
+	Query: "(FMNH 117550) institutioncode:FMNH" ; Times: 1
+	Query: "Xiphophorus couchianus" ; Times: 1
+	Query: "catalognumber:35303 institutioncode:FMNH" ; Times: 3
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "M-62947" ; Times: 1
+	Query: "FMNH 53543" ; Times: 2
+	Query: "Paraplagusia guttata" ; Times: 8
+	Query: "xenicus" ; Times: 1
+	Query: "FMNH 54950" ; Times: 2
+	Query: "FMNH 58378" ; Times: 6
+	Query: "Symphodus mediterraneus mappable:1" ; Times: 1
+	Query: "FMNH 81174" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "FMNH 81171" ; Times: 2
+	Query: "FMNH 81172" ; Times: 2
+	Query: "FMNH 81173" ; Times: 2
+	Query: "FMNH 81469" ; Times: 2
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "vntype:specimen catalognumber:93403 institutioncode:FMNH" ; Times: 1
+	Query: "Sebastes saxicola" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "(xochimilco)" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 7
+	Query: "(FMNH 117360) institutioncode:FMNH" ; Times: 1
+	Query: "aphyocharacidium" ; Times: 1
+	Query: "Trachinus araneus mappable:1" ; Times: 1
+	Query: "mullus barbatus" ; Times: 2
+	Query: "70516" ; Times: 1
+	Query: "125668" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 2
+	Query: "56758" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "catalognumber:98140" ; Times: 1
+	Query: "FMNH 54949" ; Times: 2
+	Query: "FMNH 54948" ; Times: 2
+	Query: "genus:Sarcocheilichthys" ; Times: 1
+	Query: "FMNH 58678" ; Times: 2
+	Query: "trempealeau" ; Times: 1
+	Query: "48586" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 4
+	Query: "FMNH 12328" ; Times: 1
+	Query: "fmnh 2797" ; Times: 1
+	Query: "catalognumber:58328 institutioncode:FMNH" ; Times: 2
+	Query: "Larimichthys" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum Brazil" ; Times: 1
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "Trachinotus ovatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "FMNH 58384" ; Times: 1
+	Query: "rhinobatos granulatus" ; Times: 1
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "Symphodus ocellatus mappable:1" ; Times: 1
+	Query: "FMNH 62319" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "FMNH 62313" ; Times: 1
+	Query: "FMNH 62312" ; Times: 1
+	Query: "Rhinobatos armatus" ; Times: 5
+	Query: "FMNH 62317" ; Times: 1
+	Query: "FMNH 62316" ; Times: 1
+	Query: "FMNH 62314" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "Diplodus sargus mappable:1" ; Times: 2
+	Query: "country:&#34;Jamaica&#34; institutioncode:FMNH hastypestatus:1" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "Trigloporus lastoviza mappable:1" ; Times: 1
+	Query: "Symphodus tinca mappable:1" ; Times: 1
+	Query: "FMNH 101049" ; Times: 2
+	Query: "Ablabes" ; Times: 1
+	Query: "Epinephelus costae mappable:1" ; Times: 4
+	Query: "360049" ; Times: 1
+	Query: "pristis" ; Times: 2
+	Query: "FMNH 58419" ; Times: 1
+	Query: "FMNH 58418" ; Times: 1
+	Query: "catalognumber:51 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 58792" ; Times: 2
+	Query: "seriola rivoliana" ; Times: 1
+	Query: "FMNH 58791" ; Times: 1
+	Query: "FMNH 58416" ; Times: 4
+	Query: "58523" ; Times: 1
+	Query: "FMNH 48416" ; Times: 1
+	Query: "FMNH 48417" ; Times: 1
+	Query: "116293" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "buffalo wisconsin trempealeau" ; Times: 1
+	Query: "108399" ; Times: 1
+	Query: "Bothus podas mappable:1" ; Times: 4
+	Query: "108252" ; Times: 2
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "catalognumber:130813" ; Times: 1
+	Query: "FMNH 58420" ; Times: 1
+	Query: "Cichlasoma bartoni" ; Times: 1
+	Query: "89347" ; Times: 1
+	Query: "catalognumber:79148 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 53510" ; Times: 1
+	Query: "345792" ; Times: 2
+	Query: "92210" ; Times: 3
+	Query: "Thalassoma pavo mappable:1" ; Times: 1
+	Query: "astyanax abramis" ; Times: 2
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "FMNH 94516" ; Times: 1
+	Query: "FMNH 62116" ; Times: 1
+	Query: "Pterygoplichthys undecimalis" ; Times: 2
+	Query: "FMNH 48076" ; Times: 1
+	Query: "FMNH 48075" ; Times: 1
+	Query: "Baryancistrus niveatus" ; Times: 2
+	Query: "94787" ; Times: 1
+	Query: "pterygoplichthys punctatus" ; Times: 1
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 5
+	Query: "109133" ; Times: 1
+	Query: "FMNH 53449" ; Times: 1
+	Query: "Raja miraletus mappable:1" ; Times: 2
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "Centrophorus squamosus mappable:1" ; Times: 4
+	Query: "Symphodus cinereus mappable:1" ; Times: 1
+	Query: "M-62942" ; Times: 2
+	Query: "M-62943" ; Times: 1
+	Query: "93403" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "103325" ; Times: 1
+	Query: "592-210" ; Times: 1
+	Query: "92740" ; Times: 2
+	Query: "FMNH 5171" ; Times: 1
+	Query: "senckenberg" ; Times: 3
+	Query: "isurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "leptagoniates" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "54461" ; Times: 1
+	Query: "catalognumber:106128" ; Times: 1
+	Query: "hucho hucho" ; Times: 1
+	Query: "FMNH 77354" ; Times: 6
+	Query: "637446" ; Times: 1
+	Query: "FMNH 128328" ; Times: 2
+	Query: "Deania calcea mappable:1" ; Times: 4
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "81094" ; Times: 1
+	Query: "FMNH 81178" ; Times: 2
+	Query: "Pristis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 962 download events in this period)
+Total number of records downloaded: 246
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Marañon" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Fundulus jenkinsi" ; Times: 2
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Nauta" ; Times: 1
+
+
+End of report.

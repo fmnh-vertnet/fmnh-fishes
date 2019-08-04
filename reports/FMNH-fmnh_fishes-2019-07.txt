@@ -1,0 +1,354 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 317
+Number of records retrieved in searches: 3543
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 11
+	Country: Madagascar ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: Philippines ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 229
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 28
+	Country: Venezuela ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 19
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 12
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-10 ; Times: 11
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-17 ; Times: 27
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-02 ; Times: 8
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-08 ; Times: 133
+	Date: 2019-07-21 ; Times: 12
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-26 ; Times: 5
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 8
+	Date: 2019-07-03 ; Times: 9
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 12
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 11
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Schistura " ; Times: 2
+	Query: "genus:Galeus specificepithet:arae" ; Times: 1
+	Query: "genus:Pellonula specificepithet:vorax" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "genus:Lycengraulis specificepithet:grossidens" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "genus:Chirocentrodon specificepithet:bleekerianus" ; Times: 1
+	Query: "107251" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "catalognumber:124519 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Geophagus specificepithet:crassilabris" ; Times: 1
+	Query: "genus:Hippichthys specificepithet:heptagonus" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "115894" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "catalognumber:7738 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Acanthocobitis" ; Times: 1
+	Query: "pterois lunulata" ; Times: 2
+	Query: "genus:Parenchelyurus specificepithet:hepburni" ; Times: 1
+	Query: "genus:Boleophthalmus specificepithet:boddarti" ; Times: 1
+	Query: "genus:Cottus specificepithet:rhotheus" ; Times: 1
+	Query: "FMNH 72167" ; Times: 1
+	Query: "genus:Mikrogeophagus specificepithet:ramirezi" ; Times: 1
+	Query: "FMNH 124513" ; Times: 1
+	Query: "FMNH 124521" ; Times: 1
+	Query: "genus:Pristigaster specificepithet:cayana" ; Times: 1
+	Query: "Parupeneus macronemus" ; Times: 1
+	Query: "catalognumber:124518 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Pterapogon kauderni" ; Times: 3
+	Query: "specificepithet:intermedius institutioncode:FMNH" ; Times: 1
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 1
+	Query: "Hypomesus nipponensis" ; Times: 1
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 1
+	Query: "genus:Steindachneridion" ; Times: 1
+	Query: "genus:Cottus specificepithet:poecilopus" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:bifidus" ; Times: 1
+	Query: "genus:Tetractenos specificepithet:hamiltoni" ; Times: 1
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "catalognumber:49184 institutioncode:FMNH" ; Times: 2
+	Query: "gravatai" ; Times: 1
+	Query: "genus:Homaloptera specificepithet:ocellata" ; Times: 1
+	Query: "FMNH 35144" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "Aspidontus tractus" ; Times: 2
+	Query: "genus:Etmopterus specificepithet:bullisi" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 6
+	Query: "fieldnumber:2639" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Portuguesa&#34; country:&#34;Venezuela&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen family:cyprinidae stateprovince:&#34;washington&#34; institutioncode:FMNH" ; Times: 1
+	Query: "genus:Cyclothone specificepithet:atraria" ; Times: 1
+	Query: "Raja rhina" ; Times: 4
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "genus:Opsopoeodus" ; Times: 1
+	Query: "Hoplosternum littorale" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "catalognumber:54486 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:39572 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124514 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124522 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Lipariscus specificepithet:nanus" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "catalognumber:39571 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Pseudobunocephalus specificepithet:amazonicus" ; Times: 1
+	Query: "specificepithet:andersonii institutioncode:FMNH" ; Times: 3
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Ptychochromis specificepithet:oligacanthus" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "genus:Aidablennius specificepithet:sphynx" ; Times: 1
+	Query: "Raja inornata" ; Times: 3
+	Query: "catalognumber:50065 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "Tietê" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:brevis" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "catalognumber:124513 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124523 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 50781" ; Times: 1
+	Query: "genus:Pterengraulis specificepithet:atherinoides" ; Times: 1
+	Query: "genus:Henonemus" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "fmnh 73049" ; Times: 2
+	Query: "Bathyraja" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "FMNH 15112" ; Times: 1
+	Query: "genus:Acantopsis specificepithet:octoactinotos" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "genus:Galeus specificepithet:eastmani" ; Times: 1
+	Query: "gravataí" ; Times: 1
+	Query: "genus:Mesonauta specificepithet:insignis" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:elongatus " ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:alberti" ; Times: 1
+	Query: "locality:9 km S institutioncode:FMNH" ; Times: 1
+	Query: "genus:Aspidoras" ; Times: 1
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Enchelyurus specificepithet:flavipes" ; Times: 1
+	Query: "genus:Rhinosardinia specificepithet:amazonica" ; Times: 1
+	Query: "Ebosia bleekeri" ; Times: 1
+	Query: "137095" ; Times: 1
+	Query: "genus:Doraops specificepithet:zuloagai" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "genus:Ilisha specificepithet:elongata" ; Times: 1
+	Query: "genus:Diplotaxodon" ; Times: 1
+	Query: "genus:Cranoglanis" ; Times: 1
+	Query: "genus:Bothragonus specificepithet:swanii" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "epinephelus aden" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "FMNH 333950" ; Times: 3
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "genus:Dionda county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Leporinus specificepithet:arcus" ; Times: 1
+	Query: "genus:Homaloptera specificepithet:gymnogaster" ; Times: 1
+	Query: "132114" ; Times: 1
+	Query: "FMNH 105265" ; Times: 1
+	Query: "catalognumber:124526 institutioncode:FMNH" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:iheringii" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "genus:Neoopisthopterus specificepithet:tropicus" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "catalognumber:124529 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Torquigener specificepithet:whitleyi" ; Times: 1
+	Query: "genus:Parauchenoglanis" ; Times: 1
+	Query: "genus:Odontognathus specificepithet:mucronatus" ; Times: 1
+	Query: "genus:Ramnogaster specificepithet:arcuata" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "Oryzias country:&#34;Philippines&#34;" ; Times: 1
+	Query: "FMNH 127477" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:rugosus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "specificepithet:paradoxus hastissue:1" ; Times: 1
+	Query: "Parabramis pekinensis" ; Times: 1
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "catalognumber:124521 institutioncode:FMNH" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "FMNH 127478" ; Times: 2
+	Query: "genus:Phoxocampus specificepithet:belcheri" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "FMNH 46151" ; Times: 2
+	Query: "FMNH 333949" ; Times: 5
+	Query: "genus:Alutera specificepithet:scripta" ; Times: 1
+	Query: "genus:Cottus specificepithet:ricei" ; Times: 1
+	Query: "FMNH 1241" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "Raja stellulata" ; Times: 1
+	Query: "genus:Leporinus specificepithet:muyscorum" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "Clepticus" ; Times: 2
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 1
+	Query: "catalognumber:124535 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 129207" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Scopelarchus specificepithet:guentheri" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "genus:Ernstichthys" ; Times: 1
+	Query: "genus:Bagarius specificepithet:yarrelli" ; Times: 1
+	Query: "specificepithet:stoliczkae" ; Times: 1
+	Query: "FMNH 123960" ; Times: 2
+	Query: "genus:Hemitilapia specificepithet:oxyrhynchus" ; Times: 1
+	Query: "genus:Gelanoglanis specificepithet:stroudi" ; Times: 1
+	Query: "Tapajoz country:&#34;Brazil&#34;" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "FMNH 7738" ; Times: 1
+	Query: "catalognumber:124516 institutioncode:FMNH" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "genus:Homaloptera specificepithet:stephensoni" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "Penju" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "catalognumber:124530 institutioncode:FMNH" ; Times: 3
+	Query: "Cichla temensis" ; Times: 1
+	Query: "FMNH 124519" ; Times: 2
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "Oryzias luzonensis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "FMNH 46121" ; Times: 1
+	Query: "catalognumber:124525 institutioncode:FMNH" ; Times: 1
+	Query: "taquara" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "gemmifer" ; Times: 1
+	Query: "genus:Pseudotropheus specificepithet:lucerna" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "genus:Melanostomias specificepithet:valdiviae" ; Times: 1
+	Query: "genus:Cottus specificepithet:pollux" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "pterois radiata" ; Times: 1
+	Query: "genus:Chelonodon" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:akajei" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "catalognumber:54487 institutioncode:FMNH" ; Times: 2
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:humboldtii" ; Times: 1
+	Query: "Raja binoculata" ; Times: 3
+	Query: "catalognumber:124528 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "Yunnanfu" ; Times: 2
+	Query: "Caranx caballus" ; Times: 1
+	Query: "genus:Awaous specificepithet:ocellaris" ; Times: 1
+	Query: "117916" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:antillarum" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "catalognumber:50066 institutioncode:FMNH" ; Times: 3
+	Query: "genus:Spirinchus specificepithet:lanceolatus" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "country:&#34;Siberia&#34;" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Homaloptera specificepithet:sexmaculata" ; Times: 1
+	Query: "genus:Etheostoma specificepithet:maculatum" ; Times: 1
+	Query: "genus:Manonichthys specificepithet:splendens" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "catalognumber:7044 institutioncode:FMNH" ; Times: 1
+	Query: "acipenser oxyrinchus" ; Times: 2
+	Query: "genus:Dasyatis specificepithet:margarita" ; Times: 1
+	Query: "FMNH 62347" ; Times: 1
+	Query: "FMNH 133159" ; Times: 1
+	Query: "genus:Blennius specificepithet:ocellaris" ; Times: 1
+	Query: "genus:Hypoptopoma specificepithet:thoracatum" ; Times: 1
+	Query: "genus:Labridae" ; Times: 1
+	Query: "catalognumber:124524 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Tarletonbeania specificepithet:crenularis" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "76722" ; Times: 1
+	Query: "genus:Neobythites specificepithet:gilli" ; Times: 1
+	Query: "Mayaheros urophthalmus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 985 download events in this period)
+Total number of records downloaded: 1044
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.

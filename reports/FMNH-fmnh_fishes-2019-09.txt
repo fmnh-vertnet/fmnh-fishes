@@ -1,0 +1,369 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 339
+Number of records retrieved in searches: 2484
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 92
+	Country: Rwanda ; Times: 5
+	Country: Argentina ; Times: 27
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 23
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: China ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Poland ; Times: 3
+	Country: United States ; Times: 113
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Honduras ; Times: 4
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 4
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 11
+	Date: 2019-09-10 ; Times: 75
+	Date: 2019-09-11 ; Times: 38
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-18 ; Times: 6
+	Date: 2019-09-19 ; Times: 22
+	Date: 2019-09-30 ; Times: 7
+	Date: 2019-09-09 ; Times: 4
+	Date: 2019-09-08 ; Times: 4
+	Date: 2019-09-03 ; Times: 26
+	Date: 2019-09-02 ; Times: 16
+	Date: 2019-09-01 ; Times: 1
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-05 ; Times: 7
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-21 ; Times: 9
+	Date: 2019-09-20 ; Times: 10
+	Date: 2019-09-23 ; Times: 29
+	Date: 2019-09-22 ; Times: 12
+	Date: 2019-09-25 ; Times: 8
+	Date: 2019-09-24 ; Times: 10
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-26 ; Times: 7
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "catalognumber:124534 institutioncode:FMNH" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 1
+	Query: "FMNH-136990" ; Times: 1
+	Query: "Carcharhinus oxyrhynchus" ; Times: 1
+	Query: "saurida fmnh 120828" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "genus:Serrabrycon" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "&#34;Heterophotus ophistoma&#34;" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Hemilepidotus spinosus mappable:1" ; Times: 1
+	Query: "612628" ; Times: 2
+	Query: "Centropristis philadelphicus mappable:1" ; Times: 1
+	Query: "Cyphocharax magdalenae" ; Times: 1
+	Query: "vitreus Sander" ; Times: 4
+	Query: "genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 3
+	Query: "Venefica procera mappable:1" ; Times: 1
+	Query: "FMNH 112565" ; Times: 3
+	Query: "FMNH 85836" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 4
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "fmnh fossil" ; Times: 2
+	Query: "ablabes" ; Times: 1
+	Query: "nippon" ; Times: 1
+	Query: "FMNH 12879" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 1
+	Query: "622349" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Gurgesiella atlantica" ; Times: 1
+	Query: "Beryx splendens mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Zalieutes mcgintyi" ; Times: 4
+	Query: "catalognumber:124531 institutioncode:FMNH" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "specificepithet:DIPLOTAENIA genus:BODIANUS continent:AMERICA" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 1
+	Query: "&#34;Bathyuroconger vicinus&#34;" ; Times: 2
+	Query: "Pristiophorus" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "Ammodytes personatus mappable:1" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "family:Curimatidae hastypestatus:1" ; Times: 1
+	Query: "genus:pterygotrigla hastissue:1" ; Times: 1
+	Query: "Antrostomus hastissue:1" ; Times: 1
+	Query: "FMNH 51626" ; Times: 4
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Rypticus bistrispinus mappable:1" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Serranus notospilus mappable:1" ; Times: 1
+	Query: "FMNH-49127" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;monterey&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "Sphyraena argentea mappable:1" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Apogon phenax mappable:1" ; Times: 1
+	Query: "Gymnachirus nudus mappable:1" ; Times: 1
+	Query: "Tautogolabrus adspersus mappable:1" ; Times: 1
+	Query: "catalognumber:124514 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124522 institutioncode:FMNH" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "saurida tumbil fmnh" ; Times: 1
+	Query: "genus:mylossoma country:&#34;ecuador&#34;" ; Times: 21
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:prionotus" ; Times: 1
+	Query: "equatorial guinea" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "specificepithet:episcopa genus:Dionda stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Centropristis striatus mappable:1" ; Times: 1
+	Query: "Aphanopus intermedius mappable:1" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "Mycteroperca venenosa mappable:1" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "Torpedo nobiliana mappable:1" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "Decapterus tabl mappable:1" ; Times: 1
+	Query: "cataphractus" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "gasterosteus washington" ; Times: 1
+	Query: "catalognumber:124517 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:septemfasciatum" ; Times: 1
+	Query: "catalognumber:124513 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124523 institutioncode:FMNH" ; Times: 1
+	Query: "Pontinus rathbuni mappable:1" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "45583" ; Times: 1
+	Query: "Notropis melanostomus" ; Times: 3
+	Query: "specificepithet:galeatus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Bathyagonus infraspinatus mappable:1" ; Times: 1
+	Query: "catalognumber:124529 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124535 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "saurida fmnh" ; Times: 1
+	Query: "catalognumber:46159 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:ribeiroi genus:bellator" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "Citharichthys dinoceros mappable:1" ; Times: 1
+	Query: "richardsoni fmnh" ; Times: 2
+	Query: "Chaenopsis ocellata mappable:1" ; Times: 1
+	Query: "genus:peristedion hastissue:1" ; Times: 2
+	Query: "hypomesus pretiosus" ; Times: 3
+	Query: "Xenicus" ; Times: 1
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "Trigloporus lastoviza mappable:1" ; Times: 1
+	Query: "Geotria australis" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "&#34;Microlophichthys microlophus&#34;" ; Times: 2
+	Query: "awaous banana" ; Times: 2
+	Query: "specificepithet:NICHOLSI genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "universidad nacional country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Bathyuroconger vicinus" ; Times: 1
+	Query: "FMNH 69578" ; Times: 1
+	Query: "FMNH 21870" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "catalognumber:98754 institutioncode:fmnh" ; Times: 3
+	Query: "catalognumber:124526 institutioncode:FMNH" ; Times: 1
+	Query: "Sebastes marinus mappable:1" ; Times: 1
+	Query: "FMNH 80619" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "catalognumber:124521 institutioncode:FMNH" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Urophycis cirratus mappable:1" ; Times: 1
+	Query: "specificepithet:eximius genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "catalognumber:124527 institutioncode:FMNH" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "Barbourisia rufa mappable:1" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "115807" ; Times: 1
+	Query: "genus:gargariscus hastissue:1" ; Times: 4
+	Query: "FMNH 95836" ; Times: 1
+	Query: "Citharichthys gymnorhinus mappable:1" ; Times: 1
+	Query: "catalognumber:124524 institutioncode:FMNH" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "catalognumber:11444 institutioncode:FMNH" ; Times: 1
+	Query: "sabrina fmnh" ; Times: 1
+	Query: "FMNH 90176" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "Pterapogon kauderni" ; Times: 1
+	Query: "catalognumber:124515 institutioncode:FMNH" ; Times: 1
+	Query: "Gymnallabes" ; Times: 1
+	Query: "Stomias longibarbatus mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Poecilopsetta beanii mappable:1" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 4
+	Query: "138118" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "catalognumber:124516 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124536 institutioncode:FMNH" ; Times: 1
+	Query: "country:&#34;tuvalu&#34;" ; Times: 3
+	Query: "Radulinus asprellus mappable:1" ; Times: 1
+	Query: "Myoxocephalus octodecemspinosus mappable:1" ; Times: 1
+	Query: "tonameca" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "catalognumber:124530 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "FMNH-42099" ; Times: 1
+	Query: "genus:Bodianus continent:America" ; Times: 1
+	Query: "catalognumber:124525 institutioncode:FMNH" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Amblypharyngodon mola" ; Times: 4
+	Query: "Antigonia combatia mappable:1" ; Times: 1
+	Query: "catalognumber:124533 institutioncode:FMNH" ; Times: 1
+	Query: "locality:Tola " ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "&#34;Microstomus kitt&#34;" ; Times: 1
+	Query: "Paraclinus marmoratus mappable:1" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "J. Kalinowski" ; Times: 2
+	Query: "Scorpaena inermis mappable:1" ; Times: 1
+	Query: "catalognumber:124528 institutioncode:FMNH" ; Times: 1
+	Query: "614347" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "Odontopyxis trispinosa mappable:1" ; Times: 1
+	Query: "&#34;Diretmoides pauciradiatus&#34;" ; Times: 2
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 2
+	Query: "catalognumber:124518 institutioncode:FMNH" ; Times: 1
+	Query: "locality:Piracicaba" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 5
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "specificepithet:miurus genus:Noturus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "catalognumber:50741 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124520 institutioncode:FMNH" ; Times: 1
+	Query: "stateprovince:&#34;v&#34;" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "Cichla ocellaris mappable:1" ; Times: 3
+	Query: "21870" ; Times: 1
+	Query: "Synagrops spinosus mappable:1" ; Times: 1
+	Query: "catalognumber:124532 institutioncode:FMNH" ; Times: 1
+	Query: "tuvalu" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;san mateo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "raja eglanteria" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "Symphurus urospilus mappable:1" ; Times: 1
+	Query: "Squalus suckleyi mappable:1" ; Times: 1
+	Query: "Intake pipe" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "Beta fish" ; Times: 1
+	Query: "Prionotus paralatus mappable:1" ; Times: 1
+	Query: "Henonemus punctatus" ; Times: 2
+	Query: "Ogcocephalus vespertilio mappable:1" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Panama&#34; OR &#34;Costa Rica&#34;" ; Times: 1
+	Query: "Dysalotus alcocki" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 2
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "specificepithet:lyra genus:trigla" ; Times: 1
+	Query: "specificepithet:ornatum genus:Campostoma stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Sarda orientalis mappable:1" ; Times: 1
+	Query: "catalognumber:124519 institutioncode:FMNH" ; Times: 1
+	Query: "&#34;nest&#34; vntype:specimen institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Kalinowski" ; Times: 1
+	Query: "&#34;nest&#34; vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Scarus psittacus" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1073 download events in this period)
+Total number of records downloaded: 36877
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 8
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "specificepithet:DIPLOTAENIA genus:BODIANUS continent:AMERICA" ; Times: 1
+	Query: "specificepithet:NICHOLSI genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "genus:Umbra family:Umbridae stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "FMNH 112565" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 1
+	Query: "tuvalu" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "celebensis" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "institutioncode:fmnh" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "tonameca" ; Times: 1
+
+
+End of report.

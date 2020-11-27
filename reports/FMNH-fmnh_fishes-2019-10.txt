@@ -1,0 +1,564 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 776
+Number of records retrieved in searches: 2606
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 67
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 22
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 321
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 21
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: New Zealand ; Times: 307
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 15
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 74
+	Date: 2019-10-20 ; Times: 4
+	Date: 2019-10-27 ; Times: 121
+	Date: 2019-10-25 ; Times: 6
+	Date: 2019-10-24 ; Times: 136
+	Date: 2019-10-01 ; Times: 6
+	Date: 2019-10-03 ; Times: 29
+	Date: 2019-10-02 ; Times: 7
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 8
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 197
+	Date: 2019-10-22 ; Times: 39
+	Date: 2019-10-29 ; Times: 8
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-19 ; Times: 11
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 9
+	Date: 2019-10-11 ; Times: 5
+	Date: 2019-10-16 ; Times: 20
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 25
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 16
+	Date: 2019-10-28 ; Times: 6
+	Date: 2019-10-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Pachychilon pictum" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "Mustelus norrisi" ; Times: 2
+	Query: "FMNH 70570" ; Times: 1
+	Query: "FMNH 70571" ; Times: 1
+	Query: "Loxodon" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "catalognumber:42121 institutioncode:FMNH" ; Times: 2
+	Query: "Acreichthys radiatus mappable:1" ; Times: 2
+	Query: "vitreus Sander" ; Times: 2
+	Query: "Sphyrna corona" ; Times: 2
+	Query: "FMNH 128816" ; Times: 2
+	Query: "Diplacanthopoma" ; Times: 3
+	Query: "Etmopterus splendidus" ; Times: 1
+	Query: "catalognumber:95933 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 128812" ; Times: 2
+	Query: "FMNH 128811" ; Times: 8
+	Query: "Raja clavata" ; Times: 2
+	Query: "Cruriraja rugosa" ; Times: 1
+	Query: "catalognumber:103909 institutioncode:FMNH" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "catalognumber:46079 institutioncode:FMNH" ; Times: 3
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Leucoraja ocellata" ; Times: 2
+	Query: "125203" ; Times: 1
+	Query: "FMNH 128788" ; Times: 3
+	Query: "FMNH 128789" ; Times: 6
+	Query: "FMNH 128787" ; Times: 4
+	Query: "percina nasuta" ; Times: 2
+	Query: "Mustelus griseus" ; Times: 2
+	Query: "96152" ; Times: 2
+	Query: "Neoharriotta carri" ; Times: 1
+	Query: "Flechsig AND Island NOT ICH" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "Callorhinchus capensis" ; Times: 2
+	Query: "FMNH 128919" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "Urolophus aurantiacus" ; Times: 2
+	Query: "71480" ; Times: 1
+	Query: "FMNH 94319" ; Times: 1
+	Query: "Dipturus bullisi" ; Times: 1
+	Query: "catalognumber:29757 institutioncode:FMNH" ; Times: 5
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "Chimaera phantasma" ; Times: 2
+	Query: "68252" ; Times: 1
+	Query: "Brachaluteres ulvarum mappable:1" ; Times: 2
+	Query: "Chimaera cubana" ; Times: 1
+	Query: "Pseudalutarius nasicornis mappable:1" ; Times: 2
+	Query: "polypteriformes" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "64055" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Chirostoma jordani" ; Times: 1
+	Query: "Paramonacanthus oblongus mappable:1" ; Times: 2
+	Query: "Mustelus higmani" ; Times: 1
+	Query: "Mustelus californicus" ; Times: 2
+	Query: "Chiloscyllium hasseltii" ; Times: 2
+	Query: "Centroscymnus owstonii" ; Times: 2
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Dipturus batis" ; Times: 2
+	Query: "Gymnura crebripunctata" ; Times: 1
+	Query: "Squalus suckleyi" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "Centrophorus tessellatus" ; Times: 1
+	Query: "Carcharhinus amblyrhynchos" ; Times: 2
+	Query: "Centroscymnus coelolepis" ; Times: 2
+	Query: "Myliobatis tobijei" ; Times: 2
+	Query: "catalognumber:27248 institutioncode:FMNH" ; Times: 1
+	Query: "Carcharhinus galapagensis" ; Times: 2
+	Query: "catalognumber:103910 institutioncode:FMNH" ; Times: 2
+	Query: "44016" ; Times: 1
+	Query: "catalognumber:103914 institutioncode:FMNH" ; Times: 2
+	Query: "Scoliodon laticaudus" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Zalieutes" ; Times: 1
+	Query: "catalognumber:106724 institutioncode:FMNH" ; Times: 2
+	Query: "Thamnaconus hypargyreus mappable:1" ; Times: 2
+	Query: "catalognumber:107338 institutioncode:FMNH" ; Times: 2
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "catalognumber:44467 institutioncode:fMNH" ; Times: 1
+	Query: "FMNH 128826" ; Times: 2
+	Query: "FMNH 128825" ; Times: 2
+	Query: "FMNH 78404" ; Times: 1
+	Query: "Pristis perotteti" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "catalognumber:107337 institutioncode:FMNH" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "Pervagor melanocephalus mappable:1" ; Times: 2
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "Chiloscyllium punctatum" ; Times: 2
+	Query: "Apristurus brunneus" ; Times: 1
+	Query: "Chimaera monstrosa" ; Times: 2
+	Query: "FMNH 56238" ; Times: 1
+	Query: "Etmopterus lucifer" ; Times: 2
+	Query: "Chlamydoselachus anguineus" ; Times: 2
+	Query: "67534" ; Times: 1
+	Query: "Pristis microdon" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "Vimba melanops" ; Times: 1
+	Query: "Urotrygon chilensis" ; Times: 2
+	Query: "67214" ; Times: 3
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Urogymnus asperrimus" ; Times: 2
+	Query: "FMNH 62521" ; Times: 1
+	Query: "93814" ; Times: 2
+	Query: "Paramonacanthus japonicus mappable:1" ; Times: 4
+	Query: "Telatrygon zugei" ; Times: 2
+	Query: "hartii Rivulus" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "&#34;Monolene microstoma&#34;" ; Times: 2
+	Query: "Thamnaconus modestus mappable:1" ; Times: 2
+	Query: "aphos" ; Times: 1
+	Query: "FMNH 53372" ; Times: 1
+	Query: "Cantherhines macrocerus" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "catalognumber:98921 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 85923" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Leuciscus waleckii" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "catalognumber:99417 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 70569" ; Times: 1
+	Query: "toxotes" ; Times: 1
+	Query: "catalognumber:107229 institutioncode:FMNH" ; Times: 2
+	Query: "Gymnura poecilura" ; Times: 2
+	Query: "Cantherhines dumerilii mappable:1" ; Times: 2
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "catalognumber:72935 institutioncode:FMNH" ; Times: 1
+	Query: "Urotrygon aspidura" ; Times: 2
+	Query: "Orectolobus maculatus" ; Times: 2
+	Query: "Diplophos orientalis" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Rhinochimaera pacifica" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "FMNH 35144" ; Times: 1
+	Query: "vntype:specimen (Grasseichthys)" ; Times: 1
+	Query: "Nasolamia velox" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "Rudarius ercodes mappable:1" ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "Aluterus heudelotii mappable:1" ; Times: 3
+	Query: "catalognumber:107340 institutioncode:FMNH" ; Times: 2
+	Query: "Chiloscyllium plagiosum" ; Times: 2
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "catalognumber:98754 institutioncode:FMNH" ; Times: 1
+	Query: "Rhizoprionodon oligolinx" ; Times: 1
+	Query: "Amanses scopas mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "catalognumber:103920 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:75647 institutioncode:FMNH" ; Times: 2
+	Query: "Paraluteres prionurus mappable:1" ; Times: 2
+	Query: "FMNH 58319" ; Times: 1
+	Query: "catalognumber:107236 institutioncode:FMNH" ; Times: 2
+	Query: "Hemiscyllium hallstromi" ; Times: 1
+	Query: "catalognumber:51626 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:107227 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 89230" ; Times: 1
+	Query: "diplophos" ; Times: 2
+	Query: "Squatina japonica" ; Times: 2
+	Query: "locality:Saltville" ; Times: 1
+	Query: "catalognumber:105740 institutioncode:FMNH" ; Times: 2
+	Query: "63902" ; Times: 1
+	Query: "Callorhinchus milii" ; Times: 2
+	Query: "catalognumber:106722 institutioncode:FMNH" ; Times: 2
+	Query: "Dasyatis marmorata" ; Times: 2
+	Query: "temensis Cichla" ; Times: 2
+	Query: "FMNH 84554" ; Times: 1
+	Query: "catalognumber:95999 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 53239" ; Times: 1
+	Query: "&#34;Aristostomias tittmanni&#34;" ; Times: 2
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "fmnh 53249" ; Times: 1
+	Query: "catalognumber:99417 institutioncode:fMNH" ; Times: 1
+	Query: "Dalatias licha" ; Times: 2
+	Query: "fmnh 53240" ; Times: 1
+	Query: "Narcine timlei" ; Times: 2
+	Query: "Okamejei kenojei" ; Times: 2
+	Query: "Galeus polli" ; Times: 1
+	Query: "Rajella barnardi" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "catalognumber:112364 institutioncode:FMNH" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "genus:gasterosteus county:&#34;SAN MATEO&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:112372 institutioncode:FMNH" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "Mobula rochebrunei" ; Times: 2
+	Query: "Etmopterus brachyurus" ; Times: 1
+	Query: "Urotrygon nana" ; Times: 1
+	Query: "catalognumber:18948 institutioncode:FMNH" ; Times: 2
+	Query: "county:&#34;Preble&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "menidia audens" ; Times: 2
+	Query: "fmnh 53381" ; Times: 1
+	Query: "Apristurus riveri" ; Times: 1
+	Query: "FMNH 80035" ; Times: 2
+	Query: "FMNH 80038" ; Times: 1
+	Query: "Mustelus sinusmexicanus" ; Times: 1
+	Query: "Centroscyllium nigrum" ; Times: 1
+	Query: "Etmopterus polli" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "fmnh 41461" ; Times: 1
+	Query: "Chiloscyllium griseum" ; Times: 2
+	Query: "Amblypharyngodon mola" ; Times: 1
+	Query: "Urotrygon rogersi" ; Times: 1
+	Query: "catalognumber:2 institutioncode:FMNH" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Pervagor nigrolineatus mappable:1" ; Times: 2
+	Query: "vntype:specimen (Phractolaemus)" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "catalognumber:97773 institutioncode:FMNH" ; Times: 2
+	Query: "Squalius cephalus" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "catalognumber:44471 institutioncode:FMNH" ; Times: 2
+	Query: "&#34;Cheilopogon cyanopterus&#34;" ; Times: 1
+	Query: "catalognumber:91242 institutioncode:FMNH" ; Times: 2
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "melanostomias melanops" ; Times: 1
+	Query: "Dipturus tengu" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Pseudoraja fischeri" ; Times: 1
+	Query: "Pervagor aspricaudus mappable:1" ; Times: 2
+	Query: "FMNH 85823" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "Centrophorus squamosus" ; Times: 2
+	Query: "catalognumber:107232 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:107223 institutioncode:FMNH" ; Times: 2
+	Query: "611739" ; Times: 1
+	Query: "catalognumber:73036 institutioncode:FMNH" ; Times: 3
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "catalognumber:44467 institutioncode:FMNH" ; Times: 1
+	Query: "Deania hystricosa" ; Times: 2
+	Query: "Cephaloscyllium umbratile" ; Times: 2
+	Query: "Paramonacanthus otisensis mappable:1" ; Times: 2
+	Query: "Urotrygon munda" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Dipturus olseni" ; Times: 2
+	Query: "Thamnaconus modestoides mappable:1" ; Times: 2
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "catalognumber:103916 institutioncode:FMNH" ; Times: 2
+	Query: "Vimba vimba" ; Times: 1
+	Query: "Cephaloscyllium ventriosum" ; Times: 1
+	Query: "Alopias pelagicus" ; Times: 2
+	Query: "Chimaera jordani" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "catalognumber:2921 institutioncode:FMNH" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "catalognumber:89966 institutioncode:FMNH" ; Times: 2
+	Query: "601025" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Isurus paucus" ; Times: 1
+	Query: "FMNH 8923" ; Times: 2
+	Query: "FMNH 128845" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Eugerres mexicanus" ; Times: 3
+	Query: "69978" ; Times: 1
+	Query: "Apristurus platyrhynchus" ; Times: 2
+	Query: "Cantherhines cerinus mappable:1" ; Times: 2
+	Query: "bothus constellatus" ; Times: 1
+	Query: "Leucoraja lentiginosa" ; Times: 1
+	Query: "Narke japonica" ; Times: 2
+	Query: "Etmopterus bullisi" ; Times: 1
+	Query: "Deania calcea" ; Times: 2
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Ebinania costaecanariae" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "Lamna ditropis" ; Times: 2
+	Query: "Stephanolepis cirrhifer mappable:1" ; Times: 8
+	Query: "Raja straeleni" ; Times: 2
+	Query: "FMNH 1580" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "Triakis scyllium" ; Times: 2
+	Query: "catalognumber:57264 institutioncode:FMNH" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "cichla monoculus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "FMNH 128935" ; Times: 2
+	Query: "FMNH 128932" ; Times: 4
+	Query: "FMNH Madras" ; Times: 1
+	Query: "FMNH 58719" ; Times: 2
+	Query: "Mustelus dorsalis" ; Times: 1
+	Query: "FMNH 58091" ; Times: 1
+	Query: "Atelomycterus marmoratus" ; Times: 1
+	Query: "Parmaturus pilosus" ; Times: 1
+	Query: "Gymnura australis" ; Times: 2
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Rhinobatos irvinei" ; Times: 1
+	Query: "Leptostomias" ; Times: 1
+	Query: "Cirrhoscyllium expolitum" ; Times: 1
+	Query: "Somniosus microcephalus" ; Times: 2
+	Query: "Squalus mitsukurii" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "Mitsukurina owstoni" ; Times: 2
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Fenestraja sinusmexicanus" ; Times: 1
+	Query: "Pseudocarcharias kamoharai" ; Times: 1
+	Query: "Gymnura japonica" ; Times: 2
+	Query: "fmnh 53375" ; Times: 1
+	Query: "Leptocharias smithii" ; Times: 2
+	Query: "Paraluteres arqat mappable:1" ; Times: 2
+	Query: "Scyliorhinus cervigoni" ; Times: 1
+	Query: "Diplobatis pictus" ; Times: 1
+	Query: "Apristurus macrorhynchus" ; Times: 1
+	Query: "Acreichthys tomentosus mappable:1" ; Times: 2
+	Query: "Dasyatis ushiei" ; Times: 1
+	Query: "catalognumber:107231 institutioncode:FMNH" ; Times: 2
+	Query: "Urobatis jamaicensis" ; Times: 2
+	Query: "catalognumber:107228 institutioncode:FMNH" ; Times: 2
+	Query: "asper Cottus" ; Times: 4
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "catalognumber:84259 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:72933 institutioncode:FMNH" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "catalognumber:107336 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:53372 institutioncode:FMNH" ; Times: 2
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "catalognumber:83641 institutioncode:FMNH" ; Times: 2
+	Query: "Protopterus" ; Times: 1
+	Query: "Rhinochimaera africana" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "FMNH 128800" ; Times: 2
+	Query: "Raja miraletus" ; Times: 2
+	Query: "FMNH 128809" ; Times: 6
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+	Query: "Raja texana" ; Times: 2
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "fmnh 91990" ; Times: 1
+	Query: "Breviraja mouldi" ; Times: 1
+	Query: "FMNH 128790" ; Times: 4
+	Query: "&#34;Myrophis plumbeus&#34;" ; Times: 1
+	Query: "FMNH leopardus" ; Times: 1
+	Query: "FMNH 128796" ; Times: 2
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "42121 FMNH" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 2
+	Query: "catalognumber:83078 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:1825 institutioncode:FMNH" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "catalognumber:22971 institutioncode:FMNH" ; Times: 2
+	Query: "Gurgesiella atlantica" ; Times: 1
+	Query: "Gurgesiella dorsalifera" ; Times: 1
+	Query: "malthopsis" ; Times: 1
+	Query: "Squatina nebulosa" ; Times: 2
+	Query: "Loxodon macrorhinus" ; Times: 2
+	Query: "Narcine vermiculatus" ; Times: 1
+	Query: "catalognumber:107226 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:89967 institutioncode:FMNH" ; Times: 2
+	Query: "&#34;Acanthonus armatus&#34;" ; Times: 1
+	Query: "Monacanthus tuckeri mappable:1" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Galeus eastmani" ; Times: 2
+	Query: "catalognumber:106723 institutioncode:FMNH" ; Times: 2
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "Flechsig AND Island" ; Times: 1
+	Query: "catalognumber:108364 institutioncode:FMNH" ; Times: 2
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Brachaluteres jacksonianus mappable:1" ; Times: 2
+	Query: "Neoharriotta pinnata" ; Times: 1
+	Query: "Carcharhinus cerdale" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "fmnh 53309" ; Times: 1
+	Query: "Sphyrna media" ; Times: 2
+	Query: "fmnh 53306" ; Times: 1
+	Query: "(Hume) institutioncode:FMNH" ; Times: 1
+	Query: "Fenestraja plutonia" ; Times: 1
+	Query: "catalognumber:72936 institutioncode:FMNH" ; Times: 1
+	Query: "Hydrolagus africanus" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 3
+	Query: "catalognumber:105741 institutioncode:FMNH" ; Times: 2
+	Query: "103914" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Cantherhines fronticinctus mappable:1" ; Times: 2
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "Bathyraja" ; Times: 1
+	Query: "Scyliorhinus torazame" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 2
+	Query: "Torpedo marmorata" ; Times: 2
+	Query: "Etmopterus hillianus" ; Times: 1
+	Query: "Squatina oculata" ; Times: 2
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 3
+	Query: "120011" ; Times: 1
+	Query: "Tetronarce californica" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Dasyatis brevis" ; Times: 2
+	Query: "Pristiophorus japonicus" ; Times: 1
+	Query: "genus:Mylossoma family:Serrasalmidae country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "catalognumber:107230 institutioncode:FMNH" ; Times: 2
+	Query: "Galeus arae" ; Times: 1
+	Query: "Halaelurus buergeri" ; Times: 1
+	Query: "catalognumber:107234 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 128926" ; Times: 2
+	Query: "catalognumber:44469 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 128925" ; Times: 2
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "catalognumber:44470 institutioncode:FMNH" ; Times: 2
+	Query: "Stephanolepis cirrhifer" ; Times: 2
+	Query: "Pervagor janthinosoma mappable:1" ; Times: 2
+	Query: "Heterodontus japonicus" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+	Query: "catalognumber:105744 institutioncode:FMNH" ; Times: 3
+	Query: "catalognumber:96233 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:105807 institutioncode:FMNH" ; Times: 2
+	Query: "Chromis agilis" ; Times: 1
+	Query: "Galeus sauteri" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Cirrhoscyllium formosanum" ; Times: 1
+	Query: "Dasyatis hastata" ; Times: 1
+	Query: "131983" ; Times: 1
+	Query: "FMNH 88923" ; Times: 1
+	Query: "catalognumber:83076 institutioncode:FMNH" ; Times: 3
+	Query: "52049" ; Times: 1
+	Query: "catalognumber:112371 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:72932 institutioncode:FMNH" ; Times: 1
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "catalognumber:110738 institutioncode:FMNH" ; Times: 1
+	Query: "Fmnh 128675" ; Times: 4
+	Query: "Galeus nipponensis" ; Times: 1
+	Query: "135675" ; Times: 1
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "Neotrygon kuhlii" ; Times: 2
+	Query: "catalognumber: 73037 institutioncode:FMNH" ; Times: 1
+	Query: "Niphon spinosus" ; Times: 1
+	Query: "catalognumber:29756 institutioncode:FMNH" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Hemiscyllium freycineti" ; Times: 1
+	Query: "Schroederichthys maculatus" ; Times: 1
+	Query: "catalognumber:105742 institutioncode:FMNH" ; Times: 2
+	Query: "Carcharhinus albimarginatus" ; Times: 2
+	Query: "70530" ; Times: 1
+	Query: "70531" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1308 download events in this period)
+Total number of records downloaded: 191
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+
+
+End of report.

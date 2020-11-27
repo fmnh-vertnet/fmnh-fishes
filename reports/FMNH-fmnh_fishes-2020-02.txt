@@ -1,0 +1,407 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 365
+Number of records retrieved in searches: 2769
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 72
+	Country: United States ; Times: 227
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Japan ; Times: 34
+	Country: Iraq ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 13
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-02 ; Times: 62
+	Date: 2020-02-03 ; Times: 35
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 9
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-05 ; Times: 87
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 14
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-11 ; Times: 7
+	Date: 2020-02-10 ; Times: 10
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-15 ; Times: 3
+	Date: 2020-02-14 ; Times: 12
+	Date: 2020-02-17 ; Times: 12
+	Date: 2020-02-16 ; Times: 4
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 12
+	Date: 2020-02-24 ; Times: 10
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 26
+	Date: 2020-02-06 ; Times: 8
+	Date: 2020-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Haemulon album mappable:1" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "Scarus coelestinus mappable:1" ; Times: 1
+	Query: "catalognumber:6982 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:100331 institutioncode:FMNH" ; Times: 1
+	Query: "Upeneus quadrilineatus mappable:1" ; Times: 1
+	Query: "scientificname:Mullus argentinae mappable:1" ; Times: 1
+	Query: "Rivulus montium" ; Times: 1
+	Query: "selva lacandona" ; Times: 2
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "Poecilopsetta inermis" ; Times: 1
+	Query: "FMNH osgoodi" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus insularis mappable:1" ; Times: 3
+	Query: "Cichlasoma altifrons" ; Times: 3
+	Query: "Scarus coeruleus mappable:1" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "viridescens INDIA" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "Upeneus pori mappable:1" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "FMNH 15806" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "bussingi" ; Times: 1
+	Query: "vntype:specimen catalognumber:92062 institutioncode:FMNH" ; Times: 1
+	Query: "Bryconamericus terrabensis" ; Times: 2
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "Brycon obscurus" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "Sea turtle" ; Times: 1
+	Query: "Parupeneus insularis mappable:1" ; Times: 2
+	Query: "class:Actinopterygii country:&#34;Mexico&#34; distance(location,geopoint(25.575497051470705,-100.6000934796993))&lt;100000" ; Times: 1
+	Query: "scientificname:Upeneus pori mappable:1" ; Times: 1
+	Query: "FMNH apus" ; Times: 1
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "Equetus punctatus mappable:1" ; Times: 1
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "82104" ; Times: 2
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "Anchoa cayorum mappable:1" ; Times: 1
+	Query: "FMNH 58069" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "scientificname:Parupeneus macronemus mappable:1" ; Times: 1
+	Query: "dresden museum" ; Times: 1
+	Query: "Pomadasys corvinaeformis mappable:1" ; Times: 1
+	Query: "scientificname:Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "Cynoscion jamaicensis mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "catalognumber:45997 institutioncode:FMNH" ; Times: 2
+	Query: "118964" ; Times: 1
+	Query: "FMNH 131946" ; Times: 2
+	Query: "catalognumber:101088 institutioncode:FMNH" ; Times: 1
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus quadrilineatus mappable:1" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "Rhynchophorus" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Chiapas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "128589" ; Times: 1
+	Query: "FMNH apus apus" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "DW-941" ; Times: 2
+	Query: "72164" ; Times: 2
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Cichlasoma rhytisma" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "catalognumber:137844 institutioncode:FMNH" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "Sonoda megalophthalma" ; Times: 3
+	Query: "Pomadasys crocro mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "country:&#34;scotland&#34;" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "rhinogobius" ; Times: 11
+	Query: "Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Haemulon bonariense mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;New York&#34; recordedby:Mearns" ; Times: 1
+	Query: "catalognumber:96218 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 106763" ; Times: 2
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "Hoplosternum punctatum" ; Times: 2
+	Query: "león guanajuato" ; Times: 4
+	Query: "Cottus gobio" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "country:&#34;england&#34;" ; Times: 1
+	Query: "Gephyrocharax whaleri" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "Araiophos" ; Times: 1
+	Query: "Pseudocheirodon terrabae" ; Times: 1
+	Query: "neoopisthopterus tropicus" ; Times: 1
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "hippocampus zosterae" ; Times: 2
+	Query: "FMNH 43289" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "Clarias fuscus" ; Times: 1
+	Query: "68965 institutioncode:FMNH" ; Times: 1
+	Query: "Brycon chagrensis" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "Corvula sanctaeluciae mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "Pterobrycon" ; Times: 1
+	Query: "FMNH 106365" ; Times: 1
+	Query: "FMNH variegatus" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "FMNH 45253" ; Times: 1
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "scientificname:Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Calamopteryx" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "stegostoma" ; Times: 1
+	Query: "Brycon argenteus" ; Times: 1
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "catalognumber:100330 institutioncode:FMNH" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "catalognumber:105415 institutioncode:FMNH" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "Biaru" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "Danaphos" ; Times: 1
+	Query: "FMNH 106058" ; Times: 2
+	Query: "Rineloricaria altipinnis" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "scientificname:Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "FMNH 99370" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "specificepithet:Chrysops genus:Morone hasmedia:1" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Tomocichla asfraci" ; Times: 2
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Lucifuga subterranea" ; Times: 2
+	Query: "Eucinostomus jonesii mappable:1" ; Times: 1
+	Query: "scorpioides" ; Times: 1
+	Query: "Makaira nigricans  mappable:1" ; Times: 1
+	Query: "FMNH 106962" ; Times: 2
+	Query: "Araiophos gracilis" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "pantostictus" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus vanuatu mappable:1" ; Times: 1
+	Query: "FMNH 106900" ; Times: 2
+	Query: "Eremophilus mutisii" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "122925" ; Times: 1
+	Query: "Parupeneus jansenii mappable:1" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "FMNH 95836" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "scientificname:Parupeneus jansenii mappable:1" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "tukugobius" ; Times: 1
+	Query: "LSU 8166" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Haemulon chrysargyreum mappable:1" ; Times: 1
+	Query: "FMNH pelecanoides" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "Tilapia guineensis" ; Times: 1
+	Query: "107796 fmnh" ; Times: 1
+	Query: "Psephurus gladius" ; Times: 1
+	Query: "Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "Corvula batabana mappable:1" ; Times: 1
+	Query: "sulcatus" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "654564" ; Times: 1
+	Query: "103888 institutioncode:FMNH" ; Times: 1
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "locality:Santa Ana country:&#34;Peru&#34;" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "Triplophos hemingi" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "671744" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 2
+	Query: "Amatitlania" ; Times: 1
+	Query: "locality: selva lacandona stateprovince:&#34;Chiapas&#34; country:&#34;México&#34;" ; Times: 3
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "locality:Yasuni " ; Times: 1
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Sonoda paucilampa" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "locality:Cerro Toledo " ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "-108.55" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "98368" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "scientificname:Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "Stellifer colonensis mappable:1" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "Leptoancistrus" ; Times: 2
+	Query: "Barbus anoplus" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "scientificname:Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "catalognumber:137755 institutioncode:FMNH" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "Grammonus" ; Times: 1
+	Query: "Microdesmus" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Haemulon parra mappable:1" ; Times: 1
+	Query: "Owstonia totomiensis" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "Astyanax kompi" ; Times: 3
+	Query: "671743" ; Times: 1
+	Query: "671742" ; Times: 1
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "canis fmnh" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "catalognumber:100797 institutioncode:FMNH" ; Times: 1
+	Query: "124774" ; Times: 1
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "FMNH Casuarius casuarius" ; Times: 1
+	Query: "FMNH 99730" ; Times: 1
+	Query: "scientificname:Upeneus indicus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "Hypostomus cochliodon" ; Times: 1
+	Query: "Gephyrocharax" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "country:&#34;Palestine&#34;" ; Times: 1
+	Query: "scientificname:Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1023 download events in this period)
+Total number of records downloaded: 4668
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: El Salvador ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Iraq ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,393 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 362
+Number of records retrieved in searches: 1277
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Ireland ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 8
+	Country: United States ; Times: 316
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 6
+	Country: Iraq ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 37
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 11
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 11
+	Date: 2020-05-29 ; Times: 9
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 9
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 5
+	Date: 2020-05-11 ; Times: 26
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 44
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 41
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-09 ; Times: 6
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-07 ; Times: 37
+	Date: 2020-05-06 ; Times: 31
+	Date: 2020-05-04 ; Times: 20
+	Date: 2020-05-03 ; Times: 13
+	Date: 2020-05-02 ; Times: 10
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "631592" ; Times: 1
+	Query: "upeneus aden" ; Times: 1
+	Query: "679321" ; Times: 2
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "643970" ; Times: 1
+	Query: "679326" ; Times: 1
+	Query: "catalognumber:103247 institutioncode:FMNH" ; Times: 1
+	Query: "645356" ; Times: 1
+	Query: "645355" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "halosaurus ovenii" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "689442" ; Times: 1
+	Query: "Yemen" ; Times: 1
+	Query: "Samariscus filipectoralis" ; Times: 4
+	Query: "Balistes punctatus mappable:1" ; Times: 1
+	Query: "666733" ; Times: 1
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "9168 fmnh" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "FMNH 54290" ; Times: 2
+	Query: "class:Actinopterygii country:&#34;Argentina&#34;" ; Times: 1
+	Query: "659919" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "612047" ; Times: 1
+	Query: "622146" ; Times: 1
+	Query: "640459" ; Times: 1
+	Query: "622151" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "623796" ; Times: 2
+	Query: "catalognumber:5751 institutioncode:FMNH" ; Times: 1
+	Query: "615182" ; Times: 1
+	Query: "evermannella indica" ; Times: 1
+	Query: "631619" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "667405" ; Times: 1
+	Query: "Enchelycore lichenosa" ; Times: 1
+	Query: "catalognumber:85914 institutioncode:FMNH" ; Times: 2
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "inegocia japonica" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "Gymnothorax dovii" ; Times: 1
+	Query: "635160" ; Times: 1
+	Query: "FMNH 87217" ; Times: 1
+	Query: "catalognumber:26670 institutioncode:FMNH" ; Times: 3
+	Query: "635165" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "639710" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "631874" ; Times: 1
+	Query: "catalognumber:108905 institutioncode:FMNH" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "647848" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "635181" ; Times: 1
+	Query: "640734" ; Times: 1
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "country:&#34;aruba&#34;" ; Times: 1
+	Query: "666721" ; Times: 1
+	Query: "tai o country:&#34;china&#34;" ; Times: 1
+	Query: "659968" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 2
+	Query: "121605" ; Times: 1
+	Query: "639706" ; Times: 1
+	Query: "locality:Iguaçu" ; Times: 1
+	Query: "640159" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 6
+	Query: "Echidna nocturna" ; Times: 1
+	Query: "631582" ; Times: 1
+	Query: "648358" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "635164" ; Times: 1
+	Query: "639709" ; Times: 1
+	Query: "639708" ; Times: 1
+	Query: "666719" ; Times: 1
+	Query: "668761" ; Times: 1
+	Query: "677287" ; Times: 1
+	Query: "668767" ; Times: 1
+	Query: "668766" ; Times: 1
+	Query: "612045" ; Times: 1
+	Query: "612044" ; Times: 1
+	Query: "629321" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 2
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "locality:Calobre country:&#34;Panamá&#34;" ; Times: 2
+	Query: "645183" ; Times: 2
+	Query: "136482" ; Times: 1
+	Query: "640759" ; Times: 2
+	Query: "645184" ; Times: 1
+	Query: "Scuticaria tigrina" ; Times: 2
+	Query: "639103" ; Times: 1
+	Query: "640735" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "FMNH 72033" ; Times: 1
+	Query: "600680" ; Times: 2
+	Query: "667361" ; Times: 1
+	Query: "evermannella balbo" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "633111" ; Times: 2
+	Query: "catalognumber:57518 institutioncode:FMNH" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "611830" ; Times: 1
+	Query: "686271" ; Times: 1
+	Query: "Gymnothorax javanicus" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "(rhinogobius) year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "fmnh 57243" ; Times: 1
+	Query: "120938" ; Times: 1
+	Query: "612002" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "678915" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "346029" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "Eucinostomus currani" ; Times: 1
+	Query: "633911" ; Times: 1
+	Query: "FMNH 122750" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "679369" ; Times: 1
+	Query: "611924" ; Times: 1
+	Query: "611849" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "622167" ; Times: 1
+	Query: "FMNH 125088" ; Times: 2
+	Query: "FMNH 106289" ; Times: 1
+	Query: "639695" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "623772" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "catalognumber:43858 institutioncode:FMNH" ; Times: 2
+	Query: "686241" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+	Query: "46562" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "guavina guavina" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "631662" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Sufflamen albicaudatum mappable:1" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "crystallodytes cookei" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "635150" ; Times: 1
+	Query: "644335" ; Times: 3
+	Query: "102704" ; Times: 1
+	Query: "667359" ; Times: 1
+	Query: "echelus myrus" ; Times: 2
+	Query: "Iraq" ; Times: 1
+	Query: "645187" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "Red River D. Gunn" ; Times: 1
+	Query: "633711" ; Times: 1
+	Query: "locality:Calobre country:&#34;Panama&#34;" ; Times: 6
+	Query: "79403" ; Times: 1
+	Query: "Cyema atrum" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "611852" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "615181" ; Times: 1
+	Query: "659924" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "FMNH 124979" ; Times: 1
+	Query: "623749" ; Times: 1
+	Query: "645035" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "631868" ; Times: 1
+	Query: "Solenostomus" ; Times: 3
+	Query: "631655" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "Sufflamen fraenatum mappable:1" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "677279" ; Times: 1
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "631893" ; Times: 1
+	Query: "677277" ; Times: 1
+	Query: "catalognumber:97975 institutioncode:FMNH" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "Eleotris melanosoma" ; Times: 1
+	Query: "671475" ; Times: 1
+	Query: "Nemacheilus triangularis" ; Times: 2
+	Query: "671477" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "favonigobius lateralis" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "FMNH 122752" ; Times: 1
+	Query: "639702" ; Times: 2
+	Query: "FMNH 105509" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "Megalobrama terminalis" ; Times: 1
+	Query: "611908" ; Times: 1
+	Query: "659921" ; Times: 1
+	Query: "catalognumber:51518 institutioncode:FMNH" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "611903" ; Times: 1
+	Query: "catalognumber:1408 institutioncode:FMNH" ; Times: 1
+	Query: "659926" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "623753" ; Times: 1
+	Query: "666756" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "hime japonica" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "jenkinsia stolifera" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "corvula batabana" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "megalobrama terminalis" ; Times: 4
+	Query: "specificepithet:bicolor country:&#34;philippines&#34;" ; Times: 1
+	Query: "Gymnothorax australicola" ; Times: 1
+	Query: "613726" ; Times: 1
+	Query: "613885" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "FMNH 71003" ; Times: 2
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "catalognumber:43022 institutioncode:FMNH" ; Times: 2
+	Query: "79489" ; Times: 2
+	Query: "Fmnh 68188" ; Times: 3
+	Query: "639698" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "Proterorhinus marmoratus" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 2
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "catalognumber:57092 institutioncode:FMNH" ; Times: 2
+	Query: "hapalogenys nigripinnis" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "686235" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "686239" ; Times: 1
+	Query: "Red River Gunn" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "fmnh 52643" ; Times: 1
+	Query: "hyphessobrycon eques" ; Times: 1
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "crossosalarias macrospilus" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "eumegistus illustris" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "677250" ; Times: 2
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "613729" ; Times: 1
+	Query: "clarkichthys bilineatus" ; Times: 2
+	Query: "666747" ; Times: 1
+	Query: "Hyporhamphus gilli" ; Times: 2
+	Query: "citharus linguatula" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "iguaçu" ; Times: 1
+	Query: "Red River &#34;D. Gunn&#34;" ; Times: 1
+	Query: "Gymnothorax panamensis" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "633574" ; Times: 1
+	Query: "677281" ; Times: 1
+	Query: "631665" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "623470" ; Times: 1
+	Query: "Pseudobalistes naufragium mappable:1" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1106 download events in this period)
+Total number of records downloaded: 875
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "osteochilus vittatus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+
+
+End of report.

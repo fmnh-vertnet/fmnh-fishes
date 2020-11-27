@@ -1,0 +1,925 @@
+Report for Institution Code FMNH, Resource fmnh_fishes
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4231
+Number of records retrieved in searches: 43696
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 202
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 54
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 3904
+	Country: Germany ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Japan ; Times: 5
+	Country: France ; Times: 19
+	Country: Venezuela ; Times: 12
+	Country: Thailand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 635
+	Date: 2020-04-04 ; Times: 4
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-06 ; Times: 43
+	Date: 2020-04-22 ; Times: 10
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-20 ; Times: 10
+	Date: 2020-04-07 ; Times: 1488
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 21
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 4
+	Date: 2020-04-29 ; Times: 17
+	Date: 2020-04-08 ; Times: 1295
+	Date: 2020-04-09 ; Times: 11
+	Date: 2020-04-27 ; Times: 6
+	Date: 2020-04-02 ; Times: 11
+	Date: 2020-04-03 ; Times: 443
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-13 ; Times: 69
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 8
+	Date: 2020-04-10 ; Times: 15
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 21
+	Date: 2020-04-14 ; Times: 100
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:samarai island" ; Times: 1
+	Query: "Lefua costata" ; Times: 3
+	Query: "Bathybates" ; Times: 1
+	Query: "Pachychilon pictum" ; Times: 12
+	Query: "Petrocephalus bovei" ; Times: 13
+	Query: "Spirinchus lanceolatus" ; Times: 5
+	Query: "Horabagrus nigricollaris" ; Times: 8
+	Query: "Spinibarbus sinensis" ; Times: 5
+	Query: "Bryconamericus caucanus" ; Times: 5
+	Query: "catalognumber:20255 institutioncode:FMNH" ; Times: 2
+	Query: "Xiphophorus couchianus" ; Times: 9
+	Query: "Exocoetus volitans" ; Times: 5
+	Query: "Hemibagrus nemurus" ; Times: 12
+	Query: "Creagrutus beni" ; Times: 4
+	Query: "Samariscus filipectoralis" ; Times: 1
+	Query: "Creagrutus maxillaris" ; Times: 3
+	Query: "Lepomis punctatus" ; Times: 6
+	Query: "Ictalurus meridionalis" ; Times: 3
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Pseudohemiodon laticeps" ; Times: 3
+	Query: "Cyclocheilichthys janthochir" ; Times: 5
+	Query: "Lamprologus" ; Times: 4
+	Query: "Dekeyseria scaphirhyncha" ; Times: 8
+	Query: "Alepes djedaba" ; Times: 5
+	Query: "Caesio Caerulaurea" ; Times: 3
+	Query: "Lampetra aepyptera" ; Times: 2
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "Bathybagrus tetranema" ; Times: 3
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Cheilopogon spilonotopterus" ; Times: 5
+	Query: "Larimus fasciatus" ; Times: 6
+	Query: "Trachydoras nattereri" ; Times: 6
+	Query: "Decapterus macrosoma" ; Times: 5
+	Query: "Coregonus sardinella" ; Times: 5
+	Query: "Creagrutus affinis" ; Times: 6
+	Query: "Hemibrycon helleri" ; Times: 6
+	Query: "Engraulis encrasicolus" ; Times: 4
+	Query: "vntype:specimen genus:Carcharodon hasmedia:1" ; Times: 1
+	Query: "Lobocheilos bo" ; Times: 4
+	Query: "FMNH-59546" ; Times: 1
+	Query: "swamp deer" ; Times: 1
+	Query: "Mystus cavasius" ; Times: 7
+	Query: "Glyptothorax laosensis" ; Times: 5
+	Query: "Lampetra planeri" ; Times: 2
+	Query: "Nemadoras hemipeltis" ; Times: 6
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "fMNH 87241" ; Times: 2
+	Query: "catalognumber:74155 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:11798 institutioncode:FMNH" ; Times: 2
+	Query: "631622" ; Times: 1
+	Query: "catalognumber:71642 institutioncode:FMNH" ; Times: 2
+	Query: "Boulengerella maculata" ; Times: 8
+	Query: "Uaru amphiacanthoides" ; Times: 5
+	Query: "fmnh 8281" ; Times: 3
+	Query: "Acanthodoras spinosissimus" ; Times: 8
+	Query: "Pimelodus maculatus" ; Times: 6
+	Query: "Cheirocerus eques" ; Times: 10
+	Query: "catalognumber:53564 institutioncode:FMNH" ; Times: 2
+	Query: "Loricariichthys labialis" ; Times: 3
+	Query: "Lepidopsetta mochigarei" ; Times: 5
+	Query: "Mystacoleucus marginatus" ; Times: 5
+	Query: "Aulichthys japonicus" ; Times: 7
+	Query: "FMNH 70999" ; Times: 2
+	Query: "Pimelodus cf. blochii" ; Times: 6
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Anguilla japonica" ; Times: 6
+	Query: "Loricariichthys cf. ucayalensis" ; Times: 2
+	Query: "Merluccius polli" ; Times: 6
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "Cleisthenes herzensteini" ; Times: 5
+	Query: "Merluccius productus" ; Times: 6
+	Query: "Astyanax mexicanus" ; Times: 5
+	Query: "Labiobarbus lineatus" ; Times: 5
+	Query: "catalognumber:97974 institutioncode:FMNH" ; Times: 2
+	Query: "Cheirodon interruptus" ; Times: 3
+	Query: "FMNH 96675" ; Times: 1
+	Query: "Engraulis japonicus" ; Times: 4
+	Query: "Cottus gobio" ; Times: 10
+	Query: "Etroplus suratensis" ; Times: 2
+	Query: "Clarias fuscus" ; Times: 10
+	Query: "Platysilurus malarmo" ; Times: 6
+	Query: "Gephyrocharax chocoensis" ; Times: 6
+	Query: "Merluccius bilinearis" ; Times: 6
+	Query: "FMNH 62096" ; Times: 2
+	Query: "Sander vitreus" ; Times: 4
+	Query: "Trachydoras steindachneri" ; Times: 6
+	Query: "FMNH 106365" ; Times: 2
+	Query: "Nematobrycon palmeri" ; Times: 6
+	Query: "Calophysus macropterus" ; Times: 8
+	Query: "111653" ; Times: 1
+	Query: "stegastes acapulcoensis" ; Times: 1
+	Query: "Bryconamericus emperador" ; Times: 6
+	Query: "Lutjanus argentimaculatus" ; Times: 5
+	Query: "Pseudopimelodus pulcher" ; Times: 5
+	Query: "catalognumber:9994 institutioncode:FMNH" ; Times: 2
+	Query: "cobitis taenia" ; Times: 1
+	Query: "Creagrutus bolivari" ; Times: 5
+	Query: "Paracheirodon axelrodi" ; Times: 4
+	Query: "Herotilapia multispinosa" ; Times: 1
+	Query: "schmardae" ; Times: 1
+	Query: "Hemiodontichthys acipenserinus" ; Times: 3
+	Query: "Gulaphallus eximius mappable:1" ; Times: 1
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Rineloricaria stewarti" ; Times: 6
+	Query: "Rhamdia quelen" ; Times: 14
+	Query: "Hilsa kelee" ; Times: 5
+	Query: "Nesiarchus nasutus" ; Times: 5
+	Query: "Creagrutus barrigai" ; Times: 5
+	Query: "Glyptocephalus zachirus" ; Times: 5
+	Query: "tree roots institutioncode:FMNH" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 4
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "Rineloricaria altipinnis" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Cypselurus opisthopus" ; Times: 5
+	Query: "Xenentodon cancila" ; Times: 5
+	Query: "Datnioides microlepis" ; Times: 5
+	Query: "FMNH 129823" ; Times: 1
+	Query: "Bujurquina mariae" ; Times: 2
+	Query: "Pseudomugil signifer mappable:1" ; Times: 1
+	Query: "Hyphessobrycon santae" ; Times: 4
+	Query: "Platydoras armatulus" ; Times: 6
+	Query: "Honda Japan" ; Times: 2
+	Query: "Exallodontus aguanai" ; Times: 5
+	Query: "catalognumber:53565 institutioncode:FMNH" ; Times: 2
+	Query: "Schizothorax griseus" ; Times: 4
+	Query: "Rhinodoras boehlkei" ; Times: 6
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "Hypophthalmichthys nobilis" ; Times: 9
+	Query: "Limnothrissa miodon" ; Times: 4
+	Query: "Cyclocheilichthys apogon" ; Times: 9
+	Query: "Pimelodus coprophagus" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 5
+	Query: "Eleotris picta" ; Times: 5
+	Query: "Gila conspersa" ; Times: 2
+	Query: "Mystus singaringan" ; Times: 5
+	Query: "Pennahia macrocephalus" ; Times: 6
+	Query: "Gerres oyena" ; Times: 5
+	Query: "Myleus setiger" ; Times: 5
+	Query: "Farlowella mariaelenae" ; Times: 4
+	Query: "Marcusenius stanleyanus" ; Times: 14
+	Query: "Mesoborus crocodilus" ; Times: 11
+	Query: "FMNH-53497" ; Times: 1
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Engraulis mordax" ; Times: 4
+	Query: "Ichthyomyzon unicuspis" ; Times: 2
+	Query: "Thryssa dussumieri" ; Times: 5
+	Query: "Lethenteron reissneri" ; Times: 2
+	Query: "institutioncode:FMNH hasmedia:1" ; Times: 1
+	Query: "Creagrutus zephyrus" ; Times: 6
+	Query: "Cryptoheros cutteri" ; Times: 2
+	Query: "Curimata mivartii" ; Times: 4
+	Query: "Pisodonophis boro" ; Times: 5
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 5
+	Query: "Bryconamericus alpha" ; Times: 6
+	Query: "Astyanax bimaculatus" ; Times: 6
+	Query: "(49095)" ; Times: 1
+	Query: "Hemigrammus gracilis" ; Times: 4
+	Query: "Carangoides orthogrammus" ; Times: 5
+	Query: "Pleuronectes platessa" ; Times: 5
+	Query: "Plecoglossus altivelis" ; Times: 5
+	Query: "Metaloricaria paucidens" ; Times: 4
+	Query: "catalognumber:45075 institutioncode:FMNH" ; Times: 2
+	Query: "Doras carinatus" ; Times: 8
+	Query: "Colossoma macropomum" ; Times: 9
+	Query: "catalognumber:129466 institutioncode:FMNH" ; Times: 2
+	Query: "Rineloricaria fallax" ; Times: 6
+	Query: "Hemibrycon jelskii" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 11
+	Query: "Brachyplatystoma juruense" ; Times: 6
+	Query: "Farlowella platoryncha" ; Times: 4
+	Query: "Auchenipterus demerarae" ; Times: 6
+	Query: "Moenkhausia lepidura" ; Times: 2
+	Query: "Siganus spinus" ; Times: 5
+	Query: "Blicca bjoerkna" ; Times: 16
+	Query: "Corumbataia cuestae" ; Times: 3
+	Query: "catalognumber:63767 institutioncode:FMNH" ; Times: 1
+	Query: "Cottus poecilopus" ; Times: 8
+	Query: "Hemibrycon dariensis" ; Times: 5
+	Query: "Pseudopimelodus mangurus" ; Times: 10
+	Query: "Acapoeta tanganicae" ; Times: 9
+	Query: "Gulaphallus mirabilis mappable:1" ; Times: 1
+	Query: "Harpadon nehereus" ; Times: 3
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "Vimba melanops" ; Times: 11
+	Query: "Parodon hilarii" ; Times: 4
+	Query: "Hemidoras morrisi" ; Times: 8
+	Query: "Xenocypris davidi" ; Times: 5
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "Gymnocorymbus ternetzi" ; Times: 3
+	Query: "Hypophthalmus edentatus" ; Times: 6
+	Query: "Gymnocanthus intermedius" ; Times: 5
+	Query: "Franciscodoras marmoratus" ; Times: 5
+	Query: "catalognumber:131405 institutioncode:FMNH" ; Times: 2
+	Query: "Lamontichthys filamentosus" ; Times: 4
+	Query: "catalognumber:121448 institutioncode:FMNH" ; Times: 2
+	Query: "Eugnathichthys macroterolepis" ; Times: 11
+	Query: "Myoxocephalus aenaeus" ; Times: 8
+	Query: "Goeldiella eques" ; Times: 8
+	Query: "Polypterus delhezi" ; Times: 4
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Chilotilapia rhoadesii" ; Times: 9
+	Query: "FMNH FMNH 60118" ; Times: 1
+	Query: "lateolabrax japonicus" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 5
+	Query: "Pygocentrus cariba" ; Times: 2
+	Query: "Pimelodella vittata" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Oncorhynchus clarkii" ; Times: 8
+	Query: "phylum:chordata country:mozambique" ; Times: 1
+	Query: "Poecilia formosa" ; Times: 6
+	Query: "Merluccius albidus" ; Times: 6
+	Query: "Prochilodus argenteus" ; Times: 4
+	Query: "Ageneiosus pardalis" ; Times: 4
+	Query: "Mullus surmuletus mappable:1" ; Times: 15
+	Query: "Pimelodus pictus" ; Times: 10
+	Query: "Amatitlania nigrofasciata" ; Times: 2
+	Query: "Leuciscus waleckii" ; Times: 12
+	Query: "Glyptothorax fokiensis" ; Times: 11
+	Query: "Ctenolucius hujeta" ; Times: 8
+	Query: "Rhamphochromis" ; Times: 2
+	Query: "catalognumber:73541 institutioncode:FMNH" ; Times: 2
+	Query: "Sternopygus macrurus" ; Times: 8
+	Query: "Carangoides ferdau" ; Times: 5
+	Query: "Farlowella vittata" ; Times: 4
+	Query: "FMNH 620696" ; Times: 1
+	Query: "Lycengraulis grossidens" ; Times: 6
+	Query: "catalognumber:15046 institutioncode:FMNH" ; Times: 2
+	Query: "Bryconamericus deuterodonoides" ; Times: 6
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Polypterus senegalus" ; Times: 4
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "catalognumber:106076 institutioncode:FMNH" ; Times: 1
+	Query: "Pellona castelnaeana" ; Times: 8
+	Query: "Gymnocephalus cernua" ; Times: 11
+	Query: "Acestrorhynchus lacustris" ; Times: 9
+	Query: "Leporinus piau" ; Times: 3
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "Symphysodon discus" ; Times: 2
+	Query: "Kronichthys heylandi" ; Times: 6
+	Query: "Oncorhynchus masou" ; Times: 3
+	Query: "Gasterosteus wheatlandi" ; Times: 7
+	Query: "Labeo parvus" ; Times: 5
+	Query: "Thayeria boehlkei" ; Times: 5
+	Query: "Anduzedoras oxyrhynchus" ; Times: 6
+	Query: "Pseudopimelodus bufonius" ; Times: 10
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "Astyanax altiparanae" ; Times: 3
+	Query: "Abramis brama" ; Times: 11
+	Query: "Neostethus amaricola mappable:1" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "Centromochlus heckelii" ; Times: 4
+	Query: "Prochilodus lineatus" ; Times: 4
+	Query: "Hemibagrus macropterus" ; Times: 6
+	Query: "Trachurus symmetricus" ; Times: 5
+	Query: "Samariscus" ; Times: 4
+	Query: "Cheirodon ibicuhiensis" ; Times: 3
+	Query: "Salminus brasiliensis" ; Times: 8
+	Query: "catalognumber:45078 institutioncode:FMNH" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "Elopichthys bambusa" ; Times: 5
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "Oreochromis niloticus" ; Times: 22
+	Query: "Trachurus mediterraneus" ; Times: 5
+	Query: "Myloplus rubripinnis" ; Times: 8
+	Query: "Brycon henni" ; Times: 6
+	Query: "Brycon orthotaenia" ; Times: 4
+	Query: "Genyochromis mento" ; Times: 18
+	Query: "catalognumber:94736 institutioncode:FMNH" ; Times: 1
+	Query: "Mullus barbatus mappable:1" ; Times: 4
+	Query: "Metynnis hypsauchen" ; Times: 7
+	Query: "Thorichthys meeki" ; Times: 2
+	Query: "Trichopodus trichopterus" ; Times: 5
+	Query: "Pristella maxillaris" ; Times: 4
+	Query: "Physopyxis lyra" ; Times: 6
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "FMNH 34171" ; Times: 1
+	Query: "Labiobarbus leptocheilus" ; Times: 5
+	Query: "FMNH 105559" ; Times: 1
+	Query: "Leiognathus brevirostris" ; Times: 5
+	Query: "Neolebias trilineatus" ; Times: 11
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Photopectoralis bindus" ; Times: 5
+	Query: "Trachelyopterus galeatus" ; Times: 6
+	Query: "Oligosarcus argenteus" ; Times: 3
+	Query: "Bryconamericus stramineus" ; Times: 3
+	Query: "Neostethus lankesteri mappable:1" ; Times: 1
+	Query: "Arius manillensis" ; Times: 5
+	Query: "Sorubim maniradii" ; Times: 6
+	Query: "Sardinella maderensis" ; Times: 9
+	Query: "Paratilapia polleni" ; Times: 3
+	Query: "Loricariichthys platymetopon" ; Times: 3
+	Query: "catalognumber:45077 institutioncode:FMNH" ; Times: 1
+	Query: "Eleutheronema rhadinum" ; Times: 5
+	Query: "Hyphessobrycon eques" ; Times: 6
+	Query: "Hyphessobrycon anisitsi" ; Times: 6
+	Query: "Hemigrammus marginatus" ; Times: 3
+	Query: "Prochilodus costatus" ; Times: 6
+	Query: "Pimelodus blochii" ; Times: 6
+	Query: "Macropsobrycon uruguayanae" ; Times: 3
+	Query: "Pterengraulis atherinoides" ; Times: 6
+	Query: "Parachromis managuensis" ; Times: 6
+	Query: "Serrasalmus maculatus" ; Times: 4
+	Query: "Pimelodella cristata" ; Times: 9
+	Query: "Salmo obtusirostris" ; Times: 7
+	Query: "Sorubim cuspicaudus" ; Times: 6
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "Lophiosilurus alexandri" ; Times: 10
+	Query: "Leiostomus xanthurus" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 5
+	Query: "Barbonymus schwanenfeldii" ; Times: 9
+	Query: "122876" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "Siganus canaliculatus" ; Times: 5
+	Query: "Pimelodus ornatus" ; Times: 3
+	Query: "catalognumber:58952 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:45754 institutioncode:FMNH" ; Times: 2
+	Query: "Megalonema platycephalum" ; Times: 8
+	Query: "Arius maculatus" ; Times: 8
+	Query: "Osmerus mordax" ; Times: 5
+	Query: "Pimelodus fur" ; Times: 6
+	Query: "Clupea harengus" ; Times: 5
+	Query: "FMNH-124038" ; Times: 1
+	Query: "catalognumber:120803 institutioncode:FMNH" ; Times: 4
+	Query: "Creagrutus phasma" ; Times: 6
+	Query: "FMNH 28767" ; Times: 1
+	Query: "FMNH 96335" ; Times: 2
+	Query: "Knodus smithi" ; Times: 6
+	Query: "Cottus ricei" ; Times: 10
+	Query: "Sorubim elongatus" ; Times: 6
+	Query: "Charax stenopterus" ; Times: 4
+	Query: "Decapterus russelli" ; Times: 5
+	Query: "Ambassis buruensis" ; Times: 5
+	Query: "Pterygoplichthys anisitsi" ; Times: 6
+	Query: "Cypselurus oligolepis" ; Times: 5
+	Query: "catalognumber:75172 institutioncode:FMNH" ; Times: 2
+	Query: "Ancistrus cirrhosus" ; Times: 5
+	Query: "Hemiodus gracilis" ; Times: 8
+	Query: "Horabagrus brachysoma" ; Times: 6
+	Query: "Diapoma speculiferum" ; Times: 6
+	Query: "Labeo boggut" ; Times: 9
+	Query: "Comephorus dybowskii" ; Times: 7
+	Query: "61477" ; Times: 1
+	Query: "Loricaria nickeriensis" ; Times: 3
+	Query: "Tetragonopterus chalceus" ; Times: 8
+	Query: "Gephyrocharax intermedius" ; Times: 6
+	Query: "Gila atraria" ; Times: 2
+	Query: "Squalidus chankaensis" ; Times: 3
+	Query: "Neostethus bicornis mappable:1" ; Times: 1
+	Query: "Farlowella paraguayensis" ; Times: 4
+	Query: "Sorubim lima" ; Times: 5
+	Query: "Roeboides descalvadensis" ; Times: 5
+	Query: "Eucyclogobius" ; Times: 1
+	Query: "Poptella compressa" ; Times: 8
+	Query: "Characidium zebra" ; Times: 6
+	Query: "Parophrys vetulus" ; Times: 5
+	Query: "Peckoltia furcata" ; Times: 6
+	Query: "Rineloricaria parva" ; Times: 6
+	Query: "Anchoa hepsetus" ; Times: 4
+	Query: "catalognumber:58950 institutioncode:FMNH" ; Times: 2
+	Query: "Aplodinotus grunniens" ; Times: 6
+	Query: "Loricaria cataphracta" ; Times: 3
+	Query: "Acanthopoma annectens" ; Times: 3
+	Query: "catalognumber:3282 institutioncode:FMNH" ; Times: 1
+	Query: "Pseudancistrus orinoco" ; Times: 8
+	Query: "Perca fluviatilis" ; Times: 12
+	Query: "Prochilodus vimboides" ; Times: 4
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "Barbodes lateristriga" ; Times: 4
+	Query: "Sinibrama macrops" ; Times: 5
+	Query: "Phenacostethus smithi mappable:1" ; Times: 2
+	Query: "Uraspis helvola" ; Times: 5
+	Query: "Bagarius yarrelli" ; Times: 5
+	Query: "Eigenmannia limbata" ; Times: 6
+	Query: "Squalius cephalus" ; Times: 12
+	Query: "FMNH FMNH 69118" ; Times: 1
+	Query: "catalognumber:53567 institutioncode:FMNH" ; Times: 2
+	Query: "Pterodoras granulosus" ; Times: 8
+	Query: "Henonemus punctatus" ; Times: 3
+	Query: "Microthrissa royauxi" ; Times: 4
+	Query: "Andinoacara rivulatus" ; Times: 6
+	Query: "Coreoleuciscus splendidus" ; Times: 7
+	Query: "Ballerus ballerus" ; Times: 5
+	Query: "121600" ; Times: 2
+	Query: "56798" ; Times: 1
+	Query: "Hipposcarus harid" ; Times: 3
+	Query: "Pholis ornata" ; Times: 5
+	Query: "Brochis multiradiatus" ; Times: 4
+	Query: "Knodus heteresthes" ; Times: 6
+	Query: "Megalonema platanum" ; Times: 3
+	Query: "Dasyatis schmardae" ; Times: 6
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Helogenes marmoratus" ; Times: 6
+	Query: "Loricaria simillima" ; Times: 3
+	Query: "Tropheops" ; Times: 9
+	Query: "Harttia kronei" ; Times: 2
+	Query: "Planiloricaria cryptodon" ; Times: 3
+	Query: "Lampetra fluviatilis" ; Times: 2
+	Query: "Hippoglossoides elassodon" ; Times: 5
+	Query: "Esox lucius" ; Times: 10
+	Query: "Cottus carolinae" ; Times: 10
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Megalonema amaxanthum" ; Times: 6
+	Query: "Bryconops affinis" ; Times: 6
+	Query: "Petromyzon marinus" ; Times: 2
+	Query: "Pogonias cromis" ; Times: 5
+	Query: "Labeo bata" ; Times: 5
+	Query: "Serranochromis" ; Times: 3
+	Query: "Tinca tinca" ; Times: 7
+	Query: "Lepidopsetta bilineata" ; Times: 5
+	Query: "catalognumber:5662 institutioncode:FMNH" ; Times: 2
+	Query: "Duopalatinus peruanus" ; Times: 9
+	Query: "Myoxocephalus scorpius" ; Times: 8
+	Query: "Gymnocanthus tricuspis" ; Times: 8
+	Query: "Puntioplites waandersi" ; Times: 9
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "fMNH 76060" ; Times: 1
+	Query: "Gymnocanthus herzensteini" ; Times: 5
+	Query: "Vimba vimba" ; Times: 12
+	Query: "Astyanax paranae" ; Times: 2
+	Query: "Bryconamericus terrabensis" ; Times: 5
+	Query: "Lagocephalus gloveri" ; Times: 5
+	Query: "Hippoglossoides platessoides" ; Times: 5
+	Query: "FMNH 87924" ; Times: 1
+	Query: "Bryconamericus brevirostris" ; Times: 3
+	Query: "Periophthalmus barbarus" ; Times: 5
+	Query: "catalognumber:94293 institutioncode:FMNH" ; Times: 1
+	Query: "Farlowella smithi" ; Times: 4
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "Pimelodina flavipinnis" ; Times: 6
+	Query: "Metaloricaria nijsseni" ; Times: 4
+	Query: "Isichthys henryi" ; Times: 9
+	Query: "Limanda aspera" ; Times: 5
+	Query: "Siganus sutor" ; Times: 5
+	Query: "Loricariichthys microdon" ; Times: 6
+	Query: "Leiarius marmoratus" ; Times: 6
+	Query: "Crenicichla lepidota" ; Times: 8
+	Query: "Corydoras schwartzi" ; Times: 4
+	Query: "Synodontis nigromaculata" ; Times: 9
+	Query: "roots institutioncode:FMNH" ; Times: 2
+	Query: "Awaous banana" ; Times: 4
+	Query: "Gobio gobio" ; Times: 7
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "catalognumber:9901 institutioncode:FMNH" ; Times: 2
+	Query: "Decapterus maruadsi" ; Times: 5
+	Query: "catalognumber:106075 institutioncode:FMNH" ; Times: 2
+	Query: "Chalceus macrolepidotus" ; Times: 8
+	Query: "phylum:chordata country:Mozambique" ; Times: 1
+	Query: "catalognumber:9778 institutioncode:FMNH" ; Times: 4
+	Query: "Silurus glanis" ; Times: 2
+	Query: "Cynoscion nebulosus" ; Times: 3
+	Query: "Tympanopleura atronasus" ; Times: 6
+	Query: "Leuciscus leuciscus" ; Times: 14
+	Query: "Lethenteron camtschaticum" ; Times: 2
+	Query: "Margariscus margarita" ; Times: 7
+	Query: "FMNH 78585" ; Times: 1
+	Query: "Ambassis miops" ; Times: 5
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "Kareius bicoloratus" ; Times: 5
+	Query: "Glandulocauda melanopleura" ; Times: 3
+	Query: "carroll county mississippi" ; Times: 1
+	Query: "Doras micropoeus" ; Times: 6
+	Query: "Scaphognathops bandanensis" ; Times: 5
+	Query: "Brachyhypopomus occidentalis" ; Times: 8
+	Query: "catalognumber:121447 institutioncode:FMNH" ; Times: 2
+	Query: "Labeo dyocheilus" ; Times: 9
+	Query: "Compsura heterura" ; Times: 3
+	Query: "Brycon orbignyanus" ; Times: 5
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Apareiodon affinis" ; Times: 4
+	Query: "Leptodoras acipenserinus" ; Times: 6
+	Query: "Ctenopharyngodon idellus" ; Times: 5
+	Query: "Leptodoras linnelli" ; Times: 6
+	Query: "Ictalurus pricei" ; Times: 13
+	Query: "catalognumber:19601 institutioncode:FMNH" ; Times: 2
+	Query: "Orinocodoras eigenmanni" ; Times: 6
+	Query: "Iheringichthys labrosus" ; Times: 6
+	Query: "Novumbra hubbsi" ; Times: 3
+	Query: "Cyclocheilichthys armatus" ; Times: 9
+	Query: "Myoxocephalus jaok" ; Times: 8
+	Query: "Enophrys bison" ; Times: 5
+	Query: "Sardinella fimbriata" ; Times: 5
+	Query: "Leptodoras praelongus" ; Times: 6
+	Query: "Bagrus docmak" ; Times: 4
+	Query: "Phenacogaster franciscoensis" ; Times: 6
+	Query: "Radulinus asprellus" ; Times: 5
+	Query: "Scomberomorus maculatus" ; Times: 5
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Chrosomus erythrogaster" ; Times: 7
+	Query: "Alburnoides bipunctatus" ; Times: 7
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Channa striata" ; Times: 5
+	Query: "Lamontichthys stibaros" ; Times: 4
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Felis margarita" ; Times: 5
+	Query: "Parastromateus niger" ; Times: 5
+	Query: "Arius arius" ; Times: 8
+	Query: "catalognumber:9788 institutioncode:FMNH" ; Times: 4
+	Query: "Gila pandora" ; Times: 7
+	Query: "Trachurus japonicus" ; Times: 5
+	Query: "Neostethus borneensis mappable:1" ; Times: 1
+	Query: "Brachyplatystoma rousseauxii" ; Times: 4
+	Query: "Tatia intermedia" ; Times: 7
+	Query: "Eigenmannia humboldtii" ; Times: 6
+	Query: "Cynoscion arenarius" ; Times: 3
+	Query: "Hyperopisus bebe" ; Times: 9
+	Query: "Pterygoplichthys pardalis" ; Times: 6
+	Query: "Zungaro zungaro" ; Times: 6
+	Query: "catalognumber:109993 institutioncode:FMNH" ; Times: 2
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Ictalurus balsanus" ; Times: 3
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "FMNH 62880" ; Times: 1
+	Query: "locality:samarai" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 11
+	Query: "Pseudotropheus" ; Times: 8
+	Query: "Fundulus grandis" ; Times: 4
+	Query: "Pholis gunnellus" ; Times: 5
+	Query: "Brachymystax lenok" ; Times: 3
+	Query: "Arius leptonotacanthus" ; Times: 3
+	Query: "Imparfinis minutus" ; Times: 15
+	Query: "Steindachnerina elegans" ; Times: 4
+	Query: "Docimodus" ; Times: 9
+	Query: "Labeo weeksii" ; Times: 4
+	Query: "Farlowella nattereri" ; Times: 4
+	Query: "Myleus micans" ; Times: 4
+	Query: "Ptychidio jordani" ; Times: 4
+	Query: "FMNH 8378" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Megalodoras uranoscopus" ; Times: 6
+	Query: "Amblydoras cf. affinis" ; Times: 2
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Cichla ocellaris" ; Times: 3
+	Query: "Brachyplatystoma vaillantii" ; Times: 6
+	Query: "Pseudocorynopoma doriae" ; Times: 6
+	Query: "Ctenobrycon hauxwellianus" ; Times: 3
+	Query: "Cheilopogon cyanopterus" ; Times: 5
+	Query: "Triodon macropterus" ; Times: 6
+	Query: "Racoon" ; Times: 1
+	Query: "Himantura schmardae" ; Times: 5
+	Query: "Lithodoras dorsalis" ; Times: 8
+	Query: "Amblydoras nauticus" ; Times: 2
+	Query: "Carassius auratus" ; Times: 14
+	Query: "Amblydoras gonzalezi" ; Times: 6
+	Query: "Heteropneustes fossilis" ; Times: 15
+	Query: "Moenkhausia ceros" ; Times: 8
+	Query: "Anodontostoma chacunda" ; Times: 4
+	Query: "colossoma macropomum" ; Times: 1
+	Query: "Squalidus multimaculatus" ; Times: 2
+	Query: "Aulonocara" ; Times: 3
+	Query: "102423" ; Times: 1
+	Query: "FMNH-57427" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 7
+	Query: "Decapterus tabl" ; Times: 5
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 5
+	Query: "Lebiasina multimaculata" ; Times: 4
+	Query: "Hemisorubim platyrhynchos" ; Times: 9
+	Query: "Tor tambra" ; Times: 9
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "Petrocephalus simus" ; Times: 13
+	Query: "Schizodon knerii" ; Times: 4
+	Query: "Alburnus alburnus" ; Times: 19
+	Query: "Pungitius platygaster" ; Times: 14
+	Query: "catalognumber:121422 institutioncode:FMNH" ; Times: 2
+	Query: "Squaliobarbus curriculus" ; Times: 7
+	Query: "Pinirampus pirinampu" ; Times: 5
+	Query: "Oxydoras niger" ; Times: 8
+	Query: "country:&#34;Marshall Islands&#34; institutioncode:FMNH" ; Times: 3
+	Query: "Arius gagora" ; Times: 3
+	Query: "Cichlasoma dimerus" ; Times: 2
+	Query: "Amblydoras cf. monitor" ; Times: 2
+	Query: "Micropogonias undulatus" ; Times: 6
+	Query: "Sardinella albella" ; Times: 9
+	Query: "Labeo rohita" ; Times: 4
+	Query: "Lepidocephalichthys hasselti" ; Times: 5
+	Query: "Sprattus sprattus" ; Times: 5
+	Query: "catalognumber:70773 institutioncode:FMNH" ; Times: 2
+	Query: "Sturisoma nigrirostrum" ; Times: 4
+	Query: "Chondrostoma nasus" ; Times: 7
+	Query: "Cirrhinus reba" ; Times: 5
+	Query: "Leucaspius delineatus" ; Times: 14
+	Query: "Steatocranus" ; Times: 3
+	Query: "90115" ; Times: 1
+	Query: "Pseudopleuronectes americanus" ; Times: 5
+	Query: "Barbodes binotatus" ; Times: 4
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Epinephelus marginatus" ; Times: 6
+	Query: "Microstomus pacificus" ; Times: 5
+	Query: "Serrasalmus medinai" ; Times: 6
+	Query: "Myoxocephalus octodecemspinosus" ; Times: 8
+	Query: "Hypophthalmichthys molitrix" ; Times: 9
+	Query: "FMNH 29416" ; Times: 2
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Garra imberba" ; Times: 4
+	Query: "Zoarces viviparus" ; Times: 2
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "catalognumber:10831 institutioncode:FMNH" ; Times: 2
+	Query: "Conorhynchos conirostris" ; Times: 5
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "catalognumber:74391 institutioncode:FMNH" ; Times: 2
+	Query: "Platydoras costatus" ; Times: 6
+	Query: "Gila nigrescens" ; Times: 7
+	Query: "catalognumber:58951 institutioncode:FMNH" ; Times: 2
+	Query: "Ketengus typus" ; Times: 3
+	Query: "Pygocentrus piraya" ; Times: 6
+	Query: "Polynemus dubius" ; Times: 5
+	Query: "Decapterus muroadsi" ; Times: 5
+	Query: "Astyanax aurocaudatus" ; Times: 6
+	Query: "Salmo salar" ; Times: 5
+	Query: "Geophagus brasiliensis" ; Times: 3
+	Query: "Piaractus mesopotamicus" ; Times: 9
+	Query: "Siganus argenteus" ; Times: 5
+	Query: "Hypomesus japonicus" ; Times: 5
+	Query: "Thorichthys aureus" ; Times: 2
+	Query: "Bryconamericus peruanus" ; Times: 5
+	Query: "Brevoortia tyrannus" ; Times: 4
+	Query: "Isopsetta isolepis" ; Times: 5
+	Query: "Takifugu poecilonotus" ; Times: 5
+	Query: "Stenodus leucichthys" ; Times: 5
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Jupiaba polylepis" ; Times: 7
+	Query: "Notropis telescopus" ; Times: 2
+	Query: "Tylochromis" ; Times: 2
+	Query: "Osteochilus vittatus" ; Times: 5
+	Query: "Semilabeo notabilis" ; Times: 9
+	Query: "Congochromis" ; Times: 9
+	Query: "Pareiodon microps" ; Times: 3
+	Query: "Pterygoplichthys etentaculatus" ; Times: 6
+	Query: "fMNH 88957" ; Times: 2
+	Query: "catalognumber:121449 institutioncode:FMNH" ; Times: 2
+	Query: "Pseudoplatystoma magdaleniatum" ; Times: 6
+	Query: "Pseudolithoxus dumus" ; Times: 6
+	Query: "Brachyplatystoma filamentosum" ; Times: 4
+	Query: "Piabina argentea" ; Times: 6
+	Query: "Hepsetus odoe" ; Times: 4
+	Query: "great snipe" ; Times: 1
+	Query: "Pseudancistrus barbatus" ; Times: 6
+	Query: "Crossocheilus oblongus" ; Times: 5
+	Query: "Nematalosa come" ; Times: 4
+	Query: "Limanda limanda" ; Times: 5
+	Query: "Auchenipterichthys thoracatus" ; Times: 6
+	Query: "Plotosus canius" ; Times: 5
+	Query: "catalognumber:129469 institutioncode:FMNH" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 11
+	Query: "Arius venosus" ; Times: 5
+	Query: "Leporinus taeniatus" ; Times: 5
+	Query: "Lasiancistrus heteracanthus" ; Times: 5
+	Query: "catalognumber:65319 institutioncode:FMNH" ; Times: 2
+	Query: "Cetopsis coecutiens" ; Times: 8
+	Query: "333703" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 19
+	Query: "Gymnarchus niloticus" ; Times: 13
+	Query: "catalognumber:120807 institutioncode:FMNH" ; Times: 2
+	Query: "Hemibrycon huambonicus" ; Times: 6
+	Query: "Rocio octofasciata" ; Times: 3
+	Query: "Loricariichthys maculatus" ; Times: 5
+	Query: "Farlowella schreitmuelleri" ; Times: 4
+	Query: "Eigenmannia virescens" ; Times: 6
+	Query: "FMNH 89121" ; Times: 1
+	Query: "Symphodus cinereus" ; Times: 5
+	Query: "Tor tambroides" ; Times: 9
+	Query: "Odaxothrissa losera" ; Times: 4
+	Query: "catalognumber:19583 institutioncode:FMNH" ; Times: 4
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "catalognumber:23409 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:71938 institutioncode:FMNH" ; Times: 2
+	Query: "5217 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:9902 institutioncode:FMNH" ; Times: 2
+	Query: "Xenurobrycon heterodon" ; Times: 6
+	Query: "Phago boulengeri" ; Times: 11
+	Query: "catalognumber:10832 institutioncode:FMNH" ; Times: 2
+	Query: "fMNH 71902" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Pristobrycon striolatus" ; Times: 3
+	Query: "Phractocephalus hemioliopterus" ; Times: 15
+	Query: "B. marmoratus" ; Times: 5
+	Query: "Hyporhamphus quoyi" ; Times: 5
+	Query: "Bryconamericus microcephalus" ; Times: 4
+	Query: "FMNH 86745" ; Times: 1
+	Query: "Rhamphochromis longiceps" ; Times: 1
+	Query: "Hemibates" ; Times: 1
+	Query: "Symphodus ocellatus" ; Times: 5
+	Query: "Hemigrammus bleheri" ; Times: 6
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "fMNH 41461" ; Times: 2
+	Query: "Anguilla australis" ; Times: 6
+	Query: "Creagrutus melanzonus" ; Times: 8
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "catalognumber:75170 institutioncode:FMNH" ; Times: 2
+	Query: "Rineloricaria morrowi" ; Times: 6
+	Query: "Cirrhinus mrigala" ; Times: 14
+	Query: "Ichthyomyzon fossor" ; Times: 2
+	Query: "Anarhichas lupus" ; Times: 4
+	Query: "Rineloricaria lanceolata" ; Times: 6
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Pseudobagrus vachellii" ; Times: 4
+	Query: "Leptodoras hasemani" ; Times: 6
+	Query: "Pellonula vorax" ; Times: 4
+	Query: "Ossancora punctata" ; Times: 6
+	Query: "Barbatula toni" ; Times: 8
+	Query: "Asprocottus pulcher" ; Times: 7
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Sorubimichthys planiceps" ; Times: 12
+	Query: "Hypophthalmus fimbriatus" ; Times: 5
+	Query: "fMNH 71126" ; Times: 2
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Scomberomorus commerson" ; Times: 5
+	Query: "Salvelinus leucomaenis" ; Times: 5
+	Query: "Anchoviella lepidentostole" ; Times: 4
+	Query: "Gadus morhua" ; Times: 5
+	Query: "Rhinodoras thomersoni" ; Times: 4
+	Query: "100852" ; Times: 2
+	Query: "Ambassis gymnocephalus" ; Times: 5
+	Query: "Leptodoras juruensis" ; Times: 8
+	Query: "Engraulis eurystole" ; Times: 4
+	Query: "catalognumber:60518 institutioncode:FMNH" ; Times: 1
+	Query: "Serrasalmus manueli" ; Times: 9
+	Query: "Poropuntius bantamensis" ; Times: 9
+	Query: "Neostethus geminus mappable:1" ; Times: 1
+	Query: "Guyanancistrus brevispinis" ; Times: 6
+	Query: "Niphon spinosus" ; Times: 7
+	Query: "84344" ; Times: 1
+	Query: "Chrosomus neogaeus" ; Times: 7
+	Query: "Serranochromis robustus" ; Times: 22
+	Query: "Farlowella platorynchus" ; Times: 4
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 5
+	Query: "catalognumber:22580 institutioncode:FMNH" ; Times: 3
+	Query: "Nannacara anomala" ; Times: 3
+	Query: "Eleutheronema tetradactylum" ; Times: 5
+	Query: "Platynematichthys notatus" ; Times: 6
+	Query: "Labeo coubie" ; Times: 4
+	Query: "Hemidoras stenopeltis" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "Ageneiosus ucayalensis" ; Times: 2
+	Query: "catalognumber:53566 institutioncode:FMNH" ; Times: 2
+	Query: "Loricariichthys castaneus" ; Times: 3
+	Query: "Sardinella lemuru" ; Times: 5
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Serrasalmus eigenmanni" ; Times: 6
+	Query: "Farlowella reticulata" ; Times: 4
+	Query: "101040" ; Times: 1
+	Query: "Pseudancistrus depressus" ; Times: 6
+	Query: "Cheilopogon arcticeps" ; Times: 5
+	Query: "Pellona flavipinnis" ; Times: 8
+	Query: "Stichaeus grigorjewi" ; Times: 4
+	Query: "Lethrinops" ; Times: 1
+	Query: "Geophagus steindachneri" ; Times: 9
+	Query: "Vandellia cirrhosa" ; Times: 2
+	Query: "catalognumber:9787 institutioncode:FMNH" ; Times: 4
+	Query: "Halicampus punctatus" ; Times: 1
+	Query: "Tor douronensis" ; Times: 9
+	Query: "Cyathochromis obliquidens" ; Times: 14
+	Query: "Tahuantinsuyoa macantzatza" ; Times: 3
+	Query: "Thynnichthys thynnoides" ; Times: 4
+	Query: "Sander canadensis" ; Times: 11
+	Query: "neogobius" ; Times: 1
+	Query: "Cottunculus microps" ; Times: 3
+	Query: "Carangoides fulvoguttatus" ; Times: 5
+	Query: "Distichodus affinis" ; Times: 11
+	Query: "Sardinella hualiensis" ; Times: 5
+	Query: "catalognumber:25739 institutioncode:FMNH" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "Bryconops caudomaculatus" ; Times: 6
+	Query: "Poropuntius normani" ; Times: 4
+	Query: "Curimatopsis evelynae" ; Times: 6
+	Query: "catalognumber:45079 institutioncode:FMNH" ; Times: 3
+	Query: "Krobia guianensis" ; Times: 3
+	Query: "Creagrutus changae" ; Times: 6
+	Query: "Hemibagrus wyckii" ; Times: 9
+	Query: "Labeo dussumieri" ; Times: 9
+	Query: "Piaractus brachypomus" ; Times: 9
+	Query: "Atule mate" ; Times: 5
+	Query: "Tor tor" ; Times: 9
+	Query: "Gnathonemus petersii" ; Times: 9
+	Query: "Cottus pollux" ; Times: 10
+	Query: "Hypomesus pretiosus" ; Times: 5
+	Query: "Cynopotamus argenteus" ; Times: 3
+	Query: "90476" ; Times: 1
+	Query: "FMNH 8693" ; Times: 1
+	Query: "Thaleichthys pacificus" ; Times: 5
+	Query: "Encrasicholina heteroloba" ; Times: 5
+	Query: "Cottus asper" ; Times: 10
+	Query: "Lasiancistrus caucanus" ; Times: 5
+	Query: "Petenia splendida" ; Times: 2
+	Query: "Lasiancistrus schomburgkii" ; Times: 5
+	Query: "Polypterus bichir" ; Times: 4
+	Query: "gbifdatasetid:afc30a94-6107-488a-b9c0-ba9c4fa68b7c" ; Times: 2
+	Query: "nandus nandus" ; Times: 1
+	Query: "Anguilla bicolor" ; Times: 1
+	Query: "Puntius chola" ; Times: 5
+	Query: "Farlowella oxyrryncha" ; Times: 4
+	Query: "Xiphophorus variatus" ; Times: 9
+	Query: "Pseudorasbora parva" ; Times: 12
+	Query: "Puntius semifasciolatus" ; Times: 5
+	Query: "Hypselecara temporalis" ; Times: 3
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Carangoides oblongus" ; Times: 5
+	Query: "Pseudancistrus nigrescens" ; Times: 6
+	Query: "Coregonus zenithicus" ; Times: 5
+	Query: "FMNH 3282" ; Times: 1
+	Query: "Dentatherina merceri mappable:1" ; Times: 1
+	Query: "FMNH 106088" ; Times: 1
+	Query: "FMNH FMNH 54750" ; Times: 1
+	Query: "Mimagoniates microlepis" ; Times: 6
+	Query: "Grundulus bogotensis" ; Times: 6
+	Query: "Lethenteron appendix" ; Times: 2
+	Query: "Agamyxis albomaculatus" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1171 download events in this period)
+Total number of records downloaded: 687
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 6
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Himantura schmardae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "great snipe" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Datnioides microlepis" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Lampanyctus pusillus" ; Times: 1
+	Query: "Hygophum macrochir" ; Times: 1
+	Query: "Dasyatis schmardae" ; Times: 1
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "Characidium" ; Times: 1
+	Query: "Alosa alabamae" ; Times: 1
+	Query: "Lampanyctus alatus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+	Query: "Lampanyctus intricarius" ; Times: 1
+
+
+End of report.
